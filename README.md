@@ -12,6 +12,10 @@ Thank you very much for reading this. Contributions are very welcome, to contrib
 
 You can contribute either on our own [Git](https://git.anonymousland.org/anonymousland/anonymousland) or on any other mirror like our [GitHub](https://github.com/anonyland/anonymousland) and [Codeberg](https://codeberg.org/anonymousland/anonymousland).
 
+## License
+
+All content produced by us is licensed under public domain using the [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/).
+
 ## Contact
 
 Click [here](https://matrix.to/#/#lounge:anonymousland.org) to join our Matrix Chatroom and [here](https://matrix.to/#/#anonymousland:anonymousland.org) to join our Matrix space.
