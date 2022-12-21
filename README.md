@@ -12,6 +12,8 @@ Thank you very much for reading this. Contributions are very welcome, to contrib
 
 You can contribute either on our own [Git](https://git.anonymousland.org/anonymousland/anonymousland) or on any other mirror like our [GitHub](https://github.com/anonyland/anonymousland) and [Codeberg](https://codeberg.org/anonymousland/anonymousland).
 
+If you do not know where to start, take a look at the [issues](https://git.anonymousland.org/anonymousland/anonymousland/issues) for this repository, you can also take a look at our site-wide [issues list](https://git.anonymousland.org/anonymousland/anonymousland-suggestions-issues).
+
 ## License
 
 All content produced by us is licensed under public domain using the [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/).
