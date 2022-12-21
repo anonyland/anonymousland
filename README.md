@@ -6,7 +6,11 @@
 
 </div>
 
-Contribute at https://git.anonymousland.org/anonymousland/anonymousland
+## Contributing
+
+Thank you very much for reading this. Contributions are very welcome, to contribute, just fork the repository, do the changes and open a pull request.
+
+You can contribute either on our own [Git](https://git.anonymousland.org/anonymousland/anonymousland) or on any other mirror like our [GitHub](https://github.com/anonyland/anonymousland) and [Codeberg](https://codeberg.org/anonymousland/anonymousland).
 
 ## Contact
 
