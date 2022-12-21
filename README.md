@@ -18,6 +18,8 @@ If you do not know where to start, take a look at the [issues](https://git.anony
 
 ## License
 
+![CC0 Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)
+
 All content produced by us is licensed under *public domain* using the [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
 ## Contact
