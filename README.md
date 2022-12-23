@@ -2,6 +2,8 @@
 
 >  Anonymity, Privacy, Security
 
+[Changelog](https://anonymousland.org/changelog)
+
 <div align="center">
 
 [![Build Status](https://drone.anonymousland.org/api/badges/anonymousland/anonymousland/status.svg)](https://drone.anonymousland.org/anonymousland/anonymousland)
