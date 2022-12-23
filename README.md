@@ -39,7 +39,9 @@ If you do not know where to start, take a look at the [issues](https://git.anony
 
 Running these services and properly maintaining them takes time and money. *We would be extremely grateful to get donations*, we only ask for 5$, that's all.
 
-To donate, you can visit our [donation page](https://anonymousland.org/donate) or contribute directly to our Monero wallet.[4B4kUhGXkMhic8W9NXVMTsi8cLidFAuyW3p5cWd9jG3tTT9ADCPHcrYZ8hkvA8s8TNTmSDohb9CeqJZFGqKddR8qDF1okZp](monero:4B4kUhGXkMhic8W9NXVMTsi8cLidFAuyW3p5cWd9jG3tTT9ADCPHcrYZ8hkvA8s8TNTmSDohb9CeqJZFGqKddR8qDF1okZp)
+To donate, you can visit our [donation page](https://anonymousland.org/donate) or contribute directly to our Monero wallet.
+
+**4B4kUhGXkMhic8W9NXVMTsi8cLidFAuyW3p5cWd9jG3tTT9ADCPHcrYZ8hkvA8s8TNTmSDohb9CeqJZFGqKddR8qDF1okZp**
 
 ## License
 
