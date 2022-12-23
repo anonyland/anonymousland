@@ -7,6 +7,7 @@
 <div align="center">
 
 [![Build Status](https://drone.anonymousland.org/api/badges/anonymousland/anonymousland/status.svg)](https://drone.anonymousland.org/anonymousland/anonymousland)
+![Website](https://img.shields.io/website?down_color=red&down_message=down&style=flat-square&up_color=green&up_message=up&url=https%3A%2F%2Fanonymousland.org%2F)
 
 </div>
 
