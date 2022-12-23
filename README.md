@@ -8,6 +8,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/anonyland/anonymousland?label=GitHub%20contributors&style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/anonyland/anonymousland?label=GitHub%20commit%20activity&style=flat-square)
 ![GitHub](https://img.shields.io/github/license/anonyland/anonymousland?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/anonyland/anonymousland?label=GitHub%20stars&style=flat-square)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023?style=flat-square)
 
 </div>
