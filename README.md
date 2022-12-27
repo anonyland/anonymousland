@@ -41,7 +41,7 @@ Running these services and properly maintaining them takes time and money. *We w
 
 To donate, you can visit our [donation page](https://anonymousland.org/donate) or contribute directly to our Monero wallet.
 
-**4B4kUhGXkMhic8W9NXVMTsi8cLidFAuyW3p5cWd9jG3tTT9ADCPHcrYZ8hkvA8s8TNTmSDohb9CeqJZFGqKddR8qDF1okZp**
+``47teQv7uWPv9EALRDv9je6ckC83UYJiisHpmhNKHyPPTXinPJNRtvW8PcpEoLxex9ierqWvD89v9mVyGf77uLtS3RnGUk8K``
 
 ## License
 
