@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Anonymousland logo](/assets/img/anonymousland_logo.png "Anonymousland logo")
+[![Anonymousland logo](/assets/img/anonymousland_logo.png "Anonymousland logo")](https://anonymousland.org)
 
 </div>
 
