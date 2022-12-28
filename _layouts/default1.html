@@ -64,21 +64,6 @@
                 </center>
               </div>
             {% endif %}
-            {% if site.blog == true %}
-              <div class="posts-list">
-                <a href="{{ '/blog' | prepend: site.baseurl }}">
-                  <h4>Recent Posts:</h4>
-                </a>
-                <ul>
-                  {% for i in (1..site.recent_posts) %}
-                     {% assign post = site.posts[i] %}
-                  <li>
-                    <a href="{{ post.url | prepend: site.baseurl  }}">{{ post.title }}</a>
-                  </li>
-                  {% endfor %}
-                </ul>
-              </div>
-            {% endif %}
           </div>
         </div>
       </div>
