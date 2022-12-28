@@ -1,6 +1,6 @@
 ---
 layout: default1
-description: For Qubes OS
+description: A page containing various information related to QubesOS
 title: Qubes OS
 permalink: /qubes
 ---
@@ -53,6 +53,10 @@ Website: [https://qubes-os.org](https://qubes-os.org) <button type="button" clas
 - Update frequently
 
 - Harden Qubes if applicable (Debian kicksecure, Fedora CORP hardened-malloc, etc.)
+
+- Setup a bios password along with a power-on password
+
+- Use an SSD for the Qubes system
 
 
 <br>
