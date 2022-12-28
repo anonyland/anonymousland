@@ -972,7 +972,7 @@ Here's a list of "great" messengers and services that you'll be able to use.
   A fork of Signal without the phone-number requirement.
   Session has built-in onion-routing.
 
-- [Matrix](https://matrix.org) Matrix provides a federated platform, which allows for anyone to host their own server, meaning that it is resistent to censorship as it does not rely on a single server.
+- [Matrix](https://matrix.org) Matrix provides a federated platform, which allows for anyone to host their own server, meaning that it is resistent to censorship as the network does not rely on a single server.
 
 - [Briar](https://briarproject.org) A P2P messenger app which is designed for extreme threat models.
   Allows for Bluetooth communication along with routing communications over Tor network.
