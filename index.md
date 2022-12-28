@@ -66,6 +66,28 @@ description: A fun happy place.
 <br>
 <br>
 
+--- 
+
+<br>
+
+## Blog Posts
+
+Recent blog posts from our [blog](./blog) page
+
+<br>
+
+- [General Update](./blog/2022/11/24/General-Update.html)
+
+- [Dealing with untrusted Matrix homeservers](./blog/2022/11/24/dealing-with-untrusted-homeservers.html)
+
+- [Update](./blog/2022/11/07/Update.html)
+
+
+<br>
+<br>
+
+---
+
 ## Site Layout
 
 - [Anonymousland](https://anonymousland.org)
