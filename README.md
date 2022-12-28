@@ -33,13 +33,13 @@ Here are the place where you can view and contribute to our repositories:
 
 You can contribute either on our own [Git](https://git.anonymousland.org/anonymousland/anonymousland) or on any other mirror listed above.
 
-If you do not know where to start, take a look at the [issues](https://git.anonymousland.org/anonymousland/anonymousland/issues) for this repository, you can also take a look at our *site-wide* [issues list](https://git.anonymousland.org/anonymousland/anonymousland-suggestions-issues).
+If you do not know where to start, take a look at the [issues](https://git.anonymousland.org/anonymousland/anonymousland/issues) for this repository, you can also take a look at our *site-wide* [issues list](https://git.anonymousland.org/anonymousland/main).
 
 ## Donations
 
 Running these services and properly maintaining them takes time and money. *We would be extremely grateful to get donations*, we only ask for 5$, that's all.
 
-To donate, you can visit our [donation page](https://anonymousland.org/donate) or contribute directly to our Monero wallet.
+To donate, you can visit our [donation page](https://anonymousland.org/donate) or contribute directly to our [Monero](https://www.getmonero.org/) wallet.
 
 ``47teQv7uWPv9EALRDv9je6ckC83UYJiisHpmhNKHyPPTXinPJNRtvW8PcpEoLxex9ierqWvD89v9mVyGf77uLtS3RnGUk8K``
 
