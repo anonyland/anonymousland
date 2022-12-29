@@ -7,4 +7,4 @@ gem "jekyll-seo-tag"
 gem "bundler"
 gem "kramdown-parser-gfm"
 gem "webrick"
-gem "liquid" >= 5.0.0
+gem "liquid", ">= 5.0.0"
