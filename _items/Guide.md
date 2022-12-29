@@ -88,6 +88,7 @@ _Disclaimer: This is for education / research._
 -\>> [Physical](#physical) <br>
 -\>> [Secure Communications](#secure-communications) <br>
 -\>> [Secure Hardware](#secure-hardware) <br>
+-\>> [Plausible Deniability](#plausible-deniability) <br>
 -\>> [TLDR](#tldr) <br>
 
 ---
@@ -1248,6 +1249,21 @@ For additional products that may not be as "realistic" to have with you at all t
 [Survival Blanket](https://www.amazon.com/dp/B01H6NC8XU) - This blanket blocks infrared signature.
 
 <br>
+
+---
+
+## **Plausible Deniability**
+
+Plausible deniability is where you can safely deny something and it can be believed to be true.
+For instance, a [hidden Veracrypt volume](https://veracrypt.fr/en/Plausible%20Deniability.html) is an example of this.
+An adversary cannot prove that the hidden volume exists, therefore you can deny its existence as it cannot be proven.
+
+Plausible deniability is extremely important, and in some cases should be implemented as much as possible.
+An *easy* method of implementing plausible deniability is to utilize [Hidden VMs](https://github.com/aforensics/HiddenVM) - — Use any desktop OS without leaving a trace.
+
+<br>
+
+---
 
 ## TLDR
 

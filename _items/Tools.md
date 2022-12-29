@@ -30,6 +30,7 @@ This is up to you to decide which services if any you decide to use and how to u
 \>> [File Sharing](#file-sharing) <br>
 \>> [Frontends & Social Media](#frontends--social-media) <br>
 \>> [Email Providers](#email-providers) <br>
+->> [Plausible Deniability](#plausible-deniability) <br>
 \>> [Messengers](#messengers) <br>
 \>> [Operating System](#operating-system) <br>
 \>> [Password Managers](#password-managers) <br>
@@ -192,6 +193,13 @@ This is extremely useful especially if you are worried about your email being le
 - [Duckduckgo Mail](https://duckduckgo.com/email/)
 
 <br>
+
+### __Plausible Deniability__
+
+Tools to help with plausible deniability
+
+- [HiddenVM](https://github.com/aforensics/HiddenVM)
+- [Veracrypt](https://veracrypt.fr/en/Plausible%20Deniability.html)
 
 ### __Messengers__
 
