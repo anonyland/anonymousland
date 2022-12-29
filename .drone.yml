@@ -2,9 +2,7 @@ kind: pipeline
 name: Jekyll build
 type: docker
 
-
 steps:
-
 - name: build
   image: ruby
   commands:

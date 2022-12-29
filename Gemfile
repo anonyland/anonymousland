@@ -6,4 +6,4 @@ gem 'jekyll-feed'
 gem 'jekyll-seo-tag'
 gem "bundler"
 gem "kramdown-parser-gfm"
-gem "webrick", "~> 1.7"
+gem "webrick"
