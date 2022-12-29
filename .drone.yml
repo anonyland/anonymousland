@@ -6,7 +6,8 @@ steps:
 - name: build
   image: ruby
   commands:
+  - gem update  
   - gem install bundler
   - bundle install
   - bundle update
-  - bundle exec jekyll build --trace
+  - bundle exec jekyll build
