@@ -19,7 +19,7 @@ collections:
   information:
     output: true
 exclude:
-  - Gemfile
+#  - Gemfile
   - Gemfile.lock
 plugins:
   - jekyll-feed
