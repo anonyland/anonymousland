@@ -69,7 +69,7 @@ _Disclaimer: This is for education / research._
 -\>> [Email](#email) <br>
 -\>> [Desktop](#desktop) <br>
 
-- -\>> [Qubes OS](#qubesos) <br>
+- -\>> [Qubes OS](#qubes-os) <br>
   - -\>> _[Installation](#installation)_ <br>
   - -\>> _[Template Setup](#template-setup)_ <br>
   - -\>> _[Onionizing Repositories](#onionizing-repositories)_ <br>
@@ -1132,6 +1132,13 @@ You can be tracked physically with a wide array of technologies including but no
 
 - Facial recognition
   - [Wearable face projector](https://inv.bp.projectsegfau.lt/watch?v=_PoudPCevN0)
+
+<br>
+
+#### DNA
+
+Your DNA is a unique identifier to oneself.
+You leave behind DNA traces with anything you touch, and it you leave behind DNA without even realizing it.
 
 <br>
 
