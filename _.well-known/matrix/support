@@ -1,0 +1,11 @@
+{
+    admins: [{
+        matrix_id: "@deathrow:anonymousland.org",
+        role: "admin"
+    },
+    {
+        matrix_id: "@nebulaonion:anonymousland.org",
+        role: "admin"
+    }],
+    support_page: "https://anonymousland.org/services"
+}
