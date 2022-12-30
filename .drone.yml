@@ -4,9 +4,10 @@ type: docker
 
 steps:
 - name: build
-  image: ruby
+  image: ruby:3.1.3
   commands:
+  - gem update  
   - gem install bundler
   - bundle install
   - bundle update
-  - bundle exec jekyll build --trace
+  - bundle exec jekyll build
