@@ -89,6 +89,7 @@ _Disclaimer: This is for education / research._
 -\>> [Secure Communications](#secure-communications) <br>
 -\>> [Secure Hardware](#secure-hardware) <br>
 -\>> [Plausible Deniability](#plausible-deniability) <br>
+-\>> [Tails](#tails) <br>
 -\>> [TLDR](#tldr) <br>
 
 ---
@@ -1260,6 +1261,17 @@ An adversary cannot prove that the hidden volume exists, therefore you can deny 
 
 Plausible deniability is extremely important, and in some cases should be implemented as much as possible.
 An *easy* method of implementing plausible deniability is to utilize [Hidden VMs](https://github.com/aforensics/HiddenVM) - — Use any desktop OS without leaving a trace.
+
+<br>
+
+---
+
+## **Tails**
+
+[Tails](https://tails.boum.org) is an amnesic operating system which runs in live mode.
+The benefit to this is that after each session, all of the data is erased.
+This makes it an extremely effective tool to protecting your privacy.
+Tails is routed over Tor, which allows you to use it anonymously.
 
 <br>
 
