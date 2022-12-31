@@ -55,7 +55,9 @@ Your account *can* be suspended if you take part in any sort of malicious activi
 
 - `bcrypt_rounds` is set to `16`
 
-- `MSC2285` is enabled
+- `MSC2285` is enabled.
+
+- Rooms with 0 members are purged every 24 hours.
 
 The following nginx headers are set:
 
