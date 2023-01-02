@@ -14,7 +14,7 @@ permalink: /transparency
 
 4 Cores
 
-6GB RAM
+8GB RAM
 
 260 GB SSD
 
