@@ -1,6 +1,6 @@
 #!/bin/bash
 
-docker run --rm \
+docker run \
   --name=site \
   --network=site \
   --restart=always \
