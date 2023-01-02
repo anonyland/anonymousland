@@ -10,6 +10,28 @@ permalink: /transparency
 
 ## Servers
 
+### 1984
+
+4 Cores
+
+6GB RAM
+
+260 GB SSD
+
+<br>
+
+### Njalla
+
+6 Cores
+
+9GB RAM
+
+90 GB SSD
+
+<br>
+
+---
+
 Total Cost: €139/month
 
 Public Services:
