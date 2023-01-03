@@ -1,2 +1,4 @@
+Sitemap: https://anonymousland.org/sitemap.xml
+
 User-agent: *
-Disallow: /
+Allow: /
