@@ -21,6 +21,12 @@
 
 </div>
 
+<div align="center">
+
+[![Monero wallet](https://img.shields.io/badge/XMR-47teQv7uWPv9EALRDv9je6ckC83UYJiisHpmhNKHyPPTXinPJNRtvW8PcpEoLxex9ierqWvD89v9mVyGf77uLtS3RnGUk8K-orange?logo=monero&style=flat-square)](https://anonymousland.org/donate)
+
+</div>
+
 [Changelog](https://anonymousland.org/changelog)
 
 ## Mirrors
@@ -45,9 +51,17 @@ If you do not know where to start, take a look at the [issues](https://git.anony
 
 Running these services and properly maintaining them takes time and money. *We would be extremely grateful to get donations*, we only ask for 5$, that's all.
 
-To donate, you can visit our [donation page](https://anonymousland.org/donate) or contribute directly to our [Monero](https://www.getmonero.org/) wallet.
+To donate, you can visit our [donation page](https://anonymousland.org/donate), contribute directly to our [Monero](https://www.getmonero.org/) wallet or by scanning the folowing QR Code:
 
-``47teQv7uWPv9EALRDv9je6ckC83UYJiisHpmhNKHyPPTXinPJNRtvW8PcpEoLxex9ierqWvD89v9mVyGf77uLtS3RnGUk8K``
+<div align="center">
+
+|![](/assets/img/xmr_donation_wallet.svg)                |
+|:--------------:|
+| **Monero (XMR)** |
+
+</div>
+
+_Monero wallet address:_ `47teQv7uWPv9EALRDv9je6ckC83UYJiisHpmhNKHyPPTXinPJNRtvW8PcpEoLxex9ierqWvD89v9mVyGf77uLtS3RnGUk8K`
 
 ## License
 

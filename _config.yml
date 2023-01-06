@@ -2,6 +2,10 @@ repository: anonymousland/anonymousland
 theme: jekyll-theme-potato-hacker
 theme_base: "dark"
 theme_switch: off
+title: Anonymousland
+email: admin@anonymousland.org
+url: https://anonymousland.org
+github_username: "anonyland"
 blog: on
 highlighter_theme: monokai
 toolbar_priority: 
@@ -24,6 +28,7 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 feed:
   collections:
     - changelog
