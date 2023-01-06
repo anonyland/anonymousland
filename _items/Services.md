@@ -98,8 +98,7 @@ Incidents: `1`
 - [Cinny](https://cinny.anonymousland.org) <button type="button" class="btn btn-default btn-xs"><a href="http://eoeh5ggqrjh7xlvcnydznsi4l53bvtue5rejs5relab3sdcsgrdvbiqd.onion/">Tor</a></button>
 - [Element](https://element.anonymousland.org) <button type="button" class="btn btn-default btn-xs"><a href="http://ghs2cajvtd3zereksquw6gxgjyiuczwduri6bunvz5budvxpgr6mvwyd.onion/">Tor</a></button>
 
-- [Schild](https://schild.anonymousland.org)
-
+- [Schild](https://schild.anonymousland.org) <button type="button" class="btn btn-default btn-xs"><a href="http://omm2i3fsp4n6ztqyc3tzs2fqzqdz2mdoqjzyw35qabct4lmzw7gwoiad.onion/">Tor</a></button>
 
 <br>
 
