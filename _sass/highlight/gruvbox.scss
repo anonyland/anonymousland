@@ -1,0 +1,188 @@
+$color_1: #fbf1c7;
+$color_2: #fb4934;
+$color_3: #928374;
+$color_4: #8ec07c;
+$color_5: #b8bb26;
+$color_6: #d3869b;
+$color_7: #fabd2f;
+$color_8: #fe8019;
+$color_9: #83a598;
+$background-color_1: #282828;
+
+.highlight {
+	table {
+		td {
+			padding: 5px;
+		}
+		pre {
+			margin: 0;
+		}
+	}
+	color: $color_1;
+	background-color: $background-color_1;
+	.w {
+		color: $color_1;
+		background-color: $background-color_1;
+	}
+	.err {
+		color: $color_2;
+		background-color: $background-color_1;
+		font-weight: bold;
+	}
+	.c {
+		color: $color_3;
+		font-style: italic;
+	}
+	.cd {
+		color: $color_3;
+		font-style: italic;
+	}
+	.cm {
+		color: $color_3;
+		font-style: italic;
+	}
+	.c1 {
+		color: $color_3;
+		font-style: italic;
+	}
+	.cs {
+		color: $color_3;
+		font-style: italic;
+	}
+	.cp {
+		color: $color_4;
+	}
+	.nt {
+		color: $color_2;
+	}
+	.o {
+		color: $color_1;
+	}
+	.ow {
+		color: $color_1;
+	}
+	.p {
+		color: $color_1;
+	}
+	.pi {
+		color: $color_1;
+	}
+	.gi {
+		color: $color_5;
+		background-color: $background-color_1;
+	}
+	.gd {
+		color: $color_2;
+		background-color: $background-color_1;
+	}
+	.gh {
+		color: $color_5;
+		font-weight: bold;
+	}
+	.k {
+		color: $color_2;
+	}
+	.kn {
+		color: $color_2;
+	}
+	.kp {
+		color: $color_2;
+	}
+	.kr {
+		color: $color_2;
+	}
+	.kv {
+		color: $color_2;
+	}
+	.kc {
+		color: $color_6;
+	}
+	.kt {
+		color: $color_7;
+	}
+	.kd {
+		color: $color_8;
+	}
+	.s {
+		color: $color_5;
+		font-style: italic;
+	}
+	.sb {
+		color: $color_5;
+		font-style: italic;
+	}
+	.sc {
+		color: $color_5;
+		font-style: italic;
+	}
+	.sd {
+		color: $color_5;
+		font-style: italic;
+	}
+	.s2 {
+		color: $color_5;
+		font-style: italic;
+	}
+	.sh {
+		color: $color_5;
+		font-style: italic;
+	}
+	.sx {
+		color: $color_5;
+		font-style: italic;
+	}
+	.s1 {
+		color: $color_5;
+		font-style: italic;
+	}
+	.si {
+		color: $color_5;
+		font-style: italic;
+	}
+	.sr {
+		color: $color_5;
+		font-style: italic;
+	}
+	.se {
+		color: $color_8;
+	}
+	.nn {
+		color: $color_4;
+	}
+	.nc {
+		color: $color_4;
+	}
+	.no {
+		color: $color_6;
+	}
+	.na {
+		color: $color_5;
+	}
+	.m {
+		color: $color_6;
+	}
+	.mf {
+		color: $color_6;
+	}
+	.mh {
+		color: $color_6;
+	}
+	.mi {
+		color: $color_6;
+	}
+	.il {
+		color: $color_6;
+	}
+	.mo {
+		color: $color_6;
+	}
+	.mb {
+		color: $color_6;
+	}
+	.mx {
+		color: $color_6;
+	}
+	.ss {
+		color: $color_9;
+	}
+}
