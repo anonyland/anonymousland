@@ -63,6 +63,10 @@ To donate, you can visit our [donation page](https://anonymousland.org/donate), 
 
 _Monero wallet address:_ `47teQv7uWPv9EALRDv9je6ckC83UYJiisHpmhNKHyPPTXinPJNRtvW8PcpEoLxex9ierqWvD89v9mVyGf77uLtS3RnGUk8K`
 
+If you prefer to donate other cryptocurrency than Monero, use this widget:
+
+ <iframe src="https://trocador.app/anonpay/?ticker_to=xmr&network_to=Mainnet&address=47teQv7uWPv9EALRDv9je6ckC83UYJiisHpmhNKHyPPTXinPJNRtvW8PcpEoLxex9ierqWvD89v9mVyGf77uLtS3RnGUk8K&donation=True&name=Anonymousland" width="310" height="350" style="border:0" scrolling="no"></iframe> 
+
 ## License
 
 ![CC0 Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)
