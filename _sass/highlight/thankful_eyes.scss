@@ -1,0 +1,296 @@
+$color_1: #faf6e4;
+$color_2: #dee5e7;
+$color_3: #a8e1fe;
+$color_4: #6c8b9f;
+$color_5: #b2fd6d;
+$color_6: #fefeec;
+$color_7: #cc0000;
+$color_8: #f6dd62;
+$color_9: #4df4ff;
+$color_10: #f696db;
+$color_11: #ffb000;
+$color_12: #fff0a6;
+$color_13: #999999;
+$color_14: #BBBBBB;
+$background-color_1: #122b3b;
+$background-color_2: #4e5d62;
+$background-color_3: #cc0000;
+
+.highlight {
+	table {
+		td {
+			padding: 5px;
+		}
+		pre {
+			margin: 0;
+		}
+	}
+	color: $color_1;
+	background-color: $background-color_1;
+	.gl {
+		color: $color_2;
+		background-color: $background-color_2;
+	}
+	.gp {
+		color: $color_3;
+		font-weight: bold;
+	}
+	.c {
+		color: $color_4;
+		font-style: italic;
+	}
+	.cd {
+		color: $color_4;
+		font-style: italic;
+	}
+	.cm {
+		color: $color_4;
+		font-style: italic;
+	}
+	.c1 {
+		color: $color_4;
+		font-style: italic;
+	}
+	.cs {
+		color: $color_4;
+		font-style: italic;
+	}
+	.cp {
+		color: $color_5;
+		font-weight: bold;
+		font-style: italic;
+	}
+	.err {
+		color: $color_6;
+		background-color: $background-color_3;
+	}
+	.gr {
+		color: $color_7;
+		font-weight: bold;
+		font-style: italic;
+	}
+	.k {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.kd {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.kv {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.o {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.ow {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.p {
+		color: $color_9;
+	}
+	.pi {
+		color: $color_9;
+	}
+	.gd {
+		color: $color_7;
+	}
+	.gi {
+		color: $color_5;
+	}
+	.ge {
+		font-style: italic;
+	}
+	.gs {
+		font-weight: bold;
+	}
+	.gt {
+		color: $color_2;
+		background-color: $background-color_2;
+	}
+	.kc {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.kn {
+		color: $color_11;
+		font-weight: bold;
+	}
+	.kp {
+		color: $color_11;
+		font-weight: bold;
+	}
+	.kr {
+		color: $color_11;
+		font-weight: bold;
+	}
+	.gh {
+		color: $color_11;
+		font-weight: bold;
+	}
+	.gu {
+		color: $color_11;
+		font-weight: bold;
+	}
+	.kt {
+		color: $color_5;
+		font-weight: bold;
+	}
+	.no {
+		color: $color_5;
+		font-weight: bold;
+	}
+	.nc {
+		color: $color_5;
+		font-weight: bold;
+	}
+	.nd {
+		color: $color_5;
+		font-weight: bold;
+	}
+	.nn {
+		color: $color_5;
+		font-weight: bold;
+	}
+	.bp {
+		color: $color_5;
+		font-weight: bold;
+	}
+	.ne {
+		color: $color_5;
+		font-weight: bold;
+	}
+	.nl {
+		color: $color_11;
+		font-weight: bold;
+	}
+	.nt {
+		color: $color_11;
+		font-weight: bold;
+	}
+	.m {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.mf {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.mh {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.mi {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.il {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.mo {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.mb {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.mx {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.ld {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.ss {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.s {
+		color: $color_12;
+		font-weight: bold;
+	}
+	.sb {
+		color: $color_12;
+		font-weight: bold;
+	}
+	.sd {
+		color: $color_12;
+		font-weight: bold;
+	}
+	.s2 {
+		color: $color_12;
+		font-weight: bold;
+	}
+	.sh {
+		color: $color_12;
+		font-weight: bold;
+	}
+	.sx {
+		color: $color_12;
+		font-weight: bold;
+	}
+	.sr {
+		color: $color_12;
+		font-weight: bold;
+	}
+	.s1 {
+		color: $color_12;
+		font-weight: bold;
+	}
+	.se {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.sc {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.si {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.nb {
+		font-weight: bold;
+	}
+	.ni {
+		color: $color_13;
+		font-weight: bold;
+	}
+	.w {
+		color: $color_14;
+	}
+	.go {
+		color: $color_14;
+	}
+	.nf {
+		color: $color_3;
+	}
+	.py {
+		color: $color_3;
+	}
+	.na {
+		color: $color_3;
+	}
+	.nv {
+		color: $color_3;
+		font-weight: bold;
+	}
+	.vc {
+		color: $color_3;
+		font-weight: bold;
+	}
+	.vg {
+		color: $color_3;
+		font-weight: bold;
+	}
+	.vi {
+		color: $color_3;
+		font-weight: bold;
+	}
+}

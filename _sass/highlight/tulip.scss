@@ -1,0 +1,283 @@
+$color_1: #FFFFFF;
+$color_2: #6D6E70;
+$color_3: #41ff5b;
+$color_4: #FFF02A;
+$color_5: #CC0000;
+$color_6: #3FB34F;
+$color_7: #9f93e6;
+$color_8: #FAAF4C;
+$color_9: #fff0a6;
+$color_10: #999999;
+$color_11: #BBBBBB;
+$background-color_1: #231529;
+$background-color_2: #CC0000;
+$background-color_3: #766DAF;
+
+.highlight {
+	table {
+		td {
+			padding: 5px;
+		}
+		pre {
+			margin: 0;
+		}
+	}
+	color: $color_1;
+	background-color: $background-color_1;
+	.c {
+		color: $color_2;
+		font-style: italic;
+	}
+	.cd {
+		color: $color_2;
+		font-style: italic;
+	}
+	.cm {
+		color: $color_2;
+		font-style: italic;
+	}
+	.c1 {
+		color: $color_2;
+		font-style: italic;
+	}
+	.cs {
+		color: $color_2;
+		font-style: italic;
+	}
+	.cp {
+		color: $color_3;
+		font-weight: bold;
+		font-style: italic;
+	}
+	.err {
+		color: $color_1;
+		background-color: $background-color_2;
+	}
+	.gr {
+		color: $color_1;
+		background-color: $background-color_2;
+	}
+	.k {
+		color: $color_4;
+		font-weight: bold;
+	}
+	.kd {
+		color: $color_4;
+		font-weight: bold;
+	}
+	.kv {
+		color: $color_4;
+		font-weight: bold;
+	}
+	.o {
+		color: $color_3;
+	}
+	.ow {
+		color: $color_3;
+	}
+	.p {
+		color: $color_3;
+	}
+	.pi {
+		color: $color_3;
+	}
+	.gd {
+		color: $color_5;
+	}
+	.gi {
+		color: $color_6;
+	}
+	.ge {
+		font-style: italic;
+	}
+	.gs {
+		font-weight: bold;
+	}
+	.gt {
+		color: $color_1;
+		background-color: $background-color_3;
+	}
+	.gl {
+		color: $color_1;
+		background-color: $background-color_3;
+	}
+	.kc {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.kn {
+		color: $color_1;
+		font-weight: bold;
+	}
+	.kp {
+		color: $color_1;
+		font-weight: bold;
+	}
+	.kr {
+		color: $color_1;
+		font-weight: bold;
+	}
+	.gh {
+		color: $color_1;
+		font-weight: bold;
+	}
+	.gu {
+		color: $color_1;
+		font-weight: bold;
+	}
+	.kt {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.no {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.nc {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.nd {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.nn {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.bp {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.ne {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.nl {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.nt {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.m {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.mf {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.mh {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.mi {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.il {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.mo {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.mb {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.mx {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.ld {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.ss {
+		color: $color_7;
+		font-weight: bold;
+	}
+	.s {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.sb {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.sd {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.s2 {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.sh {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.sx {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.sr {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.s1 {
+		color: $color_9;
+		font-weight: bold;
+	}
+	.se {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.sc {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.si {
+		color: $color_8;
+		font-weight: bold;
+	}
+	.nb {
+		font-weight: bold;
+	}
+	.ni {
+		color: $color_10;
+		font-weight: bold;
+	}
+	.w {
+		color: $color_11;
+	}
+	.nf {
+		color: $color_3;
+	}
+	.py {
+		color: $color_3;
+	}
+	.na {
+		color: $color_3;
+	}
+	.nv {
+		color: $color_3;
+		font-weight: bold;
+	}
+	.vc {
+		color: $color_3;
+		font-weight: bold;
+	}
+	.vg {
+		color: $color_3;
+		font-weight: bold;
+	}
+	.vi {
+		color: $color_3;
+		font-weight: bold;
+	}
+}

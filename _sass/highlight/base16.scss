@@ -1,0 +1,173 @@
+$color_1: #303030;
+$color_2: #151515;
+$color_3: #505050;
+$color_4: #f4bf75;
+$color_5: #d0d0d0;
+$color_6: #90a959;
+$color_7: #ac4142;
+$color_8: #6a9fb5;
+$color_9: #aa759f;
+$color_10: #d28445;
+$color_11: #75b5aa;
+$color_12: #8f5536;
+$background-color_1: #ac4142;
+$background-color_2: #151515;
+
+.highlight {
+	table {
+		td {
+			padding: 5px;
+		}
+		pre {
+			margin: 0;
+		}
+	}
+	color: $color_1;
+	.w {
+		color: $color_1;
+	}
+	.err {
+		color: $color_2;
+		background-color: $background-color_1;
+	}
+	.c {
+		color: $color_3;
+	}
+	.cd {
+		color: $color_3;
+	}
+	.cm {
+		color: $color_3;
+	}
+	.c1 {
+		color: $color_3;
+	}
+	.cs {
+		color: $color_3;
+	}
+	.cp {
+		color: $color_4;
+	}
+	.nt {
+		color: $color_4;
+	}
+	.o {
+		color: $color_5;
+	}
+	.ow {
+		color: $color_5;
+	}
+	.p {
+		color: $color_5;
+	}
+	.pi {
+		color: $color_5;
+	}
+	.gi {
+		color: $color_6;
+	}
+	.gd {
+		color: $color_7;
+	}
+	.gh {
+		color: $color_8;
+		background-color: $background-color_2;
+		font-weight: bold;
+	}
+	.k {
+		color: $color_9;
+	}
+	.kn {
+		color: $color_9;
+	}
+	.kp {
+		color: $color_9;
+	}
+	.kr {
+		color: $color_9;
+	}
+	.kv {
+		color: $color_9;
+	}
+	.kc {
+		color: $color_10;
+	}
+	.kt {
+		color: $color_10;
+	}
+	.kd {
+		color: $color_10;
+	}
+	.s {
+		color: $color_6;
+	}
+	.sb {
+		color: $color_6;
+	}
+	.sc {
+		color: $color_6;
+	}
+	.sd {
+		color: $color_6;
+	}
+	.s2 {
+		color: $color_6;
+	}
+	.sh {
+		color: $color_6;
+	}
+	.sx {
+		color: $color_6;
+	}
+	.s1 {
+		color: $color_6;
+	}
+	.sr {
+		color: $color_11;
+	}
+	.si {
+		color: $color_12;
+	}
+	.se {
+		color: $color_12;
+	}
+	.nn {
+		color: $color_4;
+	}
+	.nc {
+		color: $color_4;
+	}
+	.no {
+		color: $color_4;
+	}
+	.na {
+		color: $color_8;
+	}
+	.m {
+		color: $color_6;
+	}
+	.mf {
+		color: $color_6;
+	}
+	.mh {
+		color: $color_6;
+	}
+	.mi {
+		color: $color_6;
+	}
+	.il {
+		color: $color_6;
+	}
+	.mo {
+		color: $color_6;
+	}
+	.mb {
+		color: $color_6;
+	}
+	.mx {
+		color: $color_6;
+	}
+	.ss {
+		color: $color_6;
+	}
+}
