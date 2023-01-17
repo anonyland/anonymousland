@@ -6,6 +6,36 @@ permalink: /changelog
 
 ---
 
+# v1.10
+
+- Updated README
+
+- Added blog section to ``/index``
+
+- Added plausible deniability section on ``/guide``
+
+- Added plausible deniability section on ``/tools``
+
+- Added tails section on ``/guide``
+
+- Updated website security headers
+
+- Updated Git README
+
+- Updated XMR address
+
+- Added Schild onion address
+
+- Added secure computing section on ``/guide``
+
+- Add SEO improvements
+
+- Update the Matrix ``./well-known`` file to have better support for clients
+
+- Added Proton Drive to ``/tools``
+
+- Updated various aspects with the CSS
+
 # v1.09
 
 - Updated headers on ``/tools``
