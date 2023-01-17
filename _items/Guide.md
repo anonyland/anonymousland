@@ -1142,6 +1142,9 @@ You can be tracked physically with a wide array of technologies including but no
 Your DNA is a unique identifier to oneself.
 You leave behind DNA traces with anything you touch, and it you leave behind DNA without even realizing it.
 
+Bleach will remove DNA and various bodily fluids which contain DNA.
+Hydrogen Peroxide will remove blood.
+
 <br>
 
 ### Falsifying Information (Plausible Deniability)
@@ -1251,6 +1254,56 @@ For additional products that may not be as "realistic" to have with you at all t
 
 <br>
 
+### Computing Devices
+
+The device we use which contains our OS should also be using *secure* hardware.
+The definition of "secure" can vary for this
+
+An example of a *secure* device would be GrapheneOS + Google Pixel.
+The hardware itself is secure and GrapheneOS utilizes this hardware.
+
+Using a *secure* operating system such as QubesOS will not make the hardware secure.
+Most hardware firmware is proprietary.
+Certain vendors such as the following provide an alternative:
+
+- [Framework](https://frame.work)
+- [System76](https://system76.com/)
+- [Purism](https://puri.sm/)
+
+
+Do not take these to be "secure by default".
+These projects are simply open-source(ish?) and allow for modification.
+A common theme here is that these devices often times come with Linux by-default.
+
+Various Firmware:
+
+- [Coreboot](https://www.coreboot.org/)
+- [Heads](https://github.com/osresearch/heads)
+- [Skulls](https://github.com/merge/skulls)
+
+
+<br>
+
+#### Secure Accessories
+
+Having as much *secure* devices as possible is extremely important.
+For example, you should migrate as much as these "services" to external devices as possible.
+For instance, have hardware 2FA instead of a software-based application.
+The same thing applies to crypto wallets.
+
+Security Keys:
+
+- [NitroKey](https://www.nitrokey.com/)
+
+- [YubiKey](https://www.yubico.com/)
+
+Crypto Wallets:
+
+- [Trezor](https://trezor.io/)
+
+
+<br>
+
 ---
 
 ## **Plausible Deniability**
@@ -1260,7 +1313,7 @@ For instance, a [hidden Veracrypt volume](https://veracrypt.fr/en/Plausible%20De
 An adversary cannot prove that the hidden volume exists, therefore you can deny its existence as it cannot be proven.
 
 Plausible deniability is extremely important, and in some cases should be implemented as much as possible.
-An *easy* method of implementing plausible deniability is to utilize [Hidden VMs](https://github.com/aforensics/HiddenVM) - — Use any desktop OS without leaving a trace.
+An *easy* method of implementing plausible deniability is to utilize [Hidden VMs](https://github.com/aforensics/HiddenVM) — Use any desktop OS without leaving a trace.
 
 <br>
 
