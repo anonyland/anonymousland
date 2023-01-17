@@ -456,6 +456,8 @@ If you wanted a dedicated `sys-dns`, there are several guides on this:
 - [qubes-dns](https://github.com/3hhh/qubes-dns)
 - [Pihole qube](https://github.com/92VV3M42d3v8/PiHole)
 
+For setting up a VPN Qube, we are able to use the [Mullvad Guide](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) as reference.
+
 `sys-net` -> `sys-firewall` -> `sys-vpn` -> `sys-firewall-vpn`
 
 We will now create additional qubes for our use.
