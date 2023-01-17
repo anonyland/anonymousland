@@ -283,6 +283,8 @@ echo "/usr/lib/libhardened_malloc.so/libhardened_malloc.so" | sudo tee /etc/ld.s
 
 #### Guides
 
+- [Using Kloak](https://forum.qubes-os.org/t/tutorial-how-to-use-kloak-with-usb-keyboards/14134)
+
 - [Advanced Browser Fingerprinting](https://forum.qubes-os.org/t/advanced-browser-fingerprinting/12379)
 
 - [Monero Wallet Isolation](https://forum.qubes-os.org/t/monero-wallet-daemon-isolation-with-qubes-whonix/1121)
