@@ -65,6 +65,18 @@ Website: [https://qubes-os.org](https://qubes-os.org) <button type="button" clas
 
 Small notes for template setup
 
+Proxying `wget`:
+
+Edit ``/etc/wgetrc``
+
+Add:
+
+```
+use_proxy=yes
+http_proxy=127.0.0.1:8082
+https_proxy=127.0.0.1:8082
+```
+
 <br>
 
 #### Debian
