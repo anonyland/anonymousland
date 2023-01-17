@@ -41,4 +41,5 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 sass: 
+  sass_dir: _sass
   style: compressed
