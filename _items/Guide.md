@@ -1130,6 +1130,8 @@ You can be tracked physically with a wide array of technologies including but no
 - Someone physically watching you
 - Heat signature
 
+  - [Tracking you with Wifi](https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail)
+
   - [Thermal Imaging Surveillance](https://theyarewatching.org/technology/thermal-imaging-surveillance)
 
   - [Real Time Object Tracking System using Thermal Camera](https://medium.com/analytics-vidhya/real-time-object-tracking-system-using-thermal-camera-b4d077a20f16)

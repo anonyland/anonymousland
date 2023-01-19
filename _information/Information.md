@@ -101,6 +101,8 @@ A list of interesting projects
 
 For research-based articles
 
+- [Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods](https://arxiv.org/pdf/2210.07321.pdf)
+
 - [Practically-exploitable Cryptographic Vulnerabilities in Matrix](https://nebuchadnezzar-megolm.github.io/)
 
 - [Memetic Warfare](https://www.academia.edu/43534914/Memetic_Warfare_The_Future_of_War)
