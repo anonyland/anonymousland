@@ -7,8 +7,14 @@ permalink: /collections
 
 ## Information Pages
 
-- [Information](./information)
-- [GrapheneOS](./graphene)
-- [F-Droid](./f-droid)
-- [Matrix](./matrix)
-- [Qubes OS](./qubes)
+<br>
+
+## [Information](./information)
+
+A collection of links, articles, resources and more.
+
+<br>
+
+## [Qubes OS](./qubes)
+
+A collection of QubesOS related content.
