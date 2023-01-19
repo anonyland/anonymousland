@@ -12,11 +12,11 @@ permalink: /transparency
 
 ### 1984
 
-4 Cores
+6 Cores
 
-8GB RAM
+16GB RAM
 
-260 GB SSD
+360 GB SSD
 
 <br>
 
@@ -57,7 +57,7 @@ Public Services:
 
 `media_store` : 31.6 GiB
 
-`DB` : 47GB
+`DB` : 61GB
 
 **1984**
 
