@@ -167,7 +167,7 @@ echo "/usr/lib/libhardened_malloc.so/libhardened_malloc.so" | sudo tee /etc/ld.s
 Running in Dom0:
 
 ```
-sudo qubes-dom0-update qubes-template-fedora-36-minimal
+sudo qubes-dom0-update qubes-template-fedora-37-minimal
 ```
 
 ```
@@ -199,7 +199,7 @@ git config --global http.proxy http://127.0.0.1:8082/
 Running in Dom0:
 
 ```
-qvm-clone fedora-35 fedora-36
+qvm-clone fedora-36 fedora-37
 ```
 
 ```
@@ -207,7 +207,7 @@ truncate -s 5GB /var/tmp/template-upgrade-cache.img
 ```
 
 ```
-qvm-run -a fedora-36 gnome-terminal
+qvm-run -a fedora-37 gnome-terminal
 ```
 
 ```
@@ -215,10 +215,10 @@ dev=$(sudo losetup -f --show /var/tmp/template-upgrade-cache.img)
 ```
 
 ```
-qvm-block attach fedora-36 dom0:${dev##*/}
+qvm-block attach fedora-37 dom0:${dev##*/}
 ```
 
-Running inside Fedora-36:
+Running inside Fedora-37:
 
 ```
 sudo mkfs.ext4 /dev/xvdi
@@ -233,13 +233,13 @@ sudo dnf clean all
 ```
 
 ```
-sudo dnf --releasever=36--setopt=cachedir=/mnt/removable --best --allowerasing distro-sync
+sudo dnf --releasever=37--setopt=cachedir=/mnt/removable --best --allowerasing distro-sync
 ```
 
 Running inside Dom0:
 
 ```
-qvm-shutdown fedora-36
+qvm-shutdown fedora-37
 ```
 ```
 sudo losetup -d $dev
