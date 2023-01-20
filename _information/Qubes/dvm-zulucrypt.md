@@ -17,6 +17,10 @@ Install the `zulucrypt` package:
 
 ``sudo apt install zulucrypt``
 
+If you wish use usb devices, add the `qubes-proxy-usb` package:
+
+``sudo apt install qubes-proxy-usb``
+
 <br>
 
 ### Setup
