@@ -18,6 +18,7 @@
 ![GitHub](https://img.shields.io/github/license/anonyland/anonymousland?style=flat-square)
 ![GitHub Repo stars](https://img.shields.io/github/stars/anonyland/anonymousland?label=GitHub%20stars&style=flat-square)
 ![Maintenance](https://img.shields.io/maintenance/yes/2023?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/anonyland/anonymousland?style=flat-square)
 
 </div>
 
