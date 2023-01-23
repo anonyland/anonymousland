@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Build Status](https://drone.anonymousland.org/api/badges/anonymousland/anonymousland/status.svg)](https://drone.anonymousland.org/anonymousland/anonymousland)
+![Drone (self-hosted)](https://img.shields.io/drone/build/anonymousland/anonymousland?server=https%3A%2F%2Fdrone.anonymousland.org&style=flat-square)
 ![Website](https://img.shields.io/website?down_color=red&down_message=down&style=flat-square&up_color=green&up_message=up&url=https%3A%2F%2Fanonymousland.org%2F)
 ![Security Headers](https://img.shields.io/security-headers?style=flat-square&url=https%3A%2F%2Fanonymousland.org%2F)
 ![GitHub contributors](https://img.shields.io/github/contributors/anonyland/anonymousland?label=GitHub%20contributors&style=flat-square)
