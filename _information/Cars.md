@@ -33,6 +33,9 @@ The term "car" is used to describe automobiles such as sedans, SUV's, trucks, tu
 
 -\>> [Introduction](#introduction) <br>
 
+-\>> [Security](#security) <br>
+
+
 <br>
 
 ---
@@ -61,6 +64,26 @@ Often times, these devices to not receive proper security patches or even update
 
 ---
 
+### __Security__
+
+Unfortunately, with the rapid adoption of technology, cars are vulnerable to various types of attacks.
+Certain types of attacks include spoofing the radio signal from a key Fob and utilizing vulnerabilities found in 3rd-party applications.
+
+Here is a list of some educational resources:
+
+- [Connecting to the car's network - David Bombal](https://invidious.namazso.eu/watch?v=ICOaAfLlb4o)
+
+- [I Hacked Into My Own Car - Steve Mould](https://invidious.snopyta.org/watch?v=5CsD8I396wo)
+
+<br>
+
+---
 
 ### Links & Resources
 
+
+<br>
+
+---
+
+### Footnotes
