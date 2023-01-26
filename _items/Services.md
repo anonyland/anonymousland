@@ -89,9 +89,7 @@ The Matrix homeserver is located at
 
 `https://matrix.anonymousland.org`
 
-Registration is done via the [registration page](https://matrix.anonymousland.org/register)
-
-Incidents: `1`
+Registration is done via [Element](https://element.anonymousland.org) or any other client of your choice.
 
 ###  __Clients__
 
