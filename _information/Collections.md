@@ -27,3 +27,5 @@ A collection of QubesOS related content.
 
 
 [dvm-zulucrypt](./qubes/dvm-zulucrypt) - Notes on how to setup a disposable zulucrypt instance for USB devices.
+
+[kicksecure-sys-dns](./qubes/kicksecure-sys-dns) - Notes on how to setup a hardened dnscrypt proxy
