@@ -63,6 +63,39 @@ To donate, you can visit our [donation page](https://anonymousland.org/donate), 
 
 _Monero wallet address:_ `47teQv7uWPv9EALRDv9je6ckC83UYJiisHpmhNKHyPPTXinPJNRtvW8PcpEoLxex9ierqWvD89v9mVyGf77uLtS3RnGUk8K`
 
+## Building
+
+To build this Jekyll website you can use the following commands:
+
+```
+bundle install
+jekyll build
+```
+
+**Make sure to be at the root of the repository.**
+The built site files ready to host will be located at the *_site* directory.
+
+## Hosting
+
+To host this site, we use nginx, you can check our config at our [infrastructure repository](https://git.anonymousland.org/anonymousland/infrastructure). But this should do:
+
+```
+server {  
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    gzip on;
+
+    server_name exampledomain.com;
+
+    location / {
+        root /config/www;
+        index index.html;
+        try_files $uri $uri.html $uri/ =404;
+    }
+
+}
+```
+
 ## License
 
 ![CC0 Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)
@@ -71,4 +104,4 @@ All content produced by us is licensed under *public domain* using the [CC0 lice
 
 ## Contact
 
-Click [here](https://matrix.to/#/#lounge:anonymousland.org) to join our Matrix *chatroom* and [here](https://matrix.to/#/#anonymousland:anonymousland.org) to join our Matrix *space.*
+Click [here](https://matrix.to/#/#lounge:anonymousland.org) to join our main Matrix *chatroom* and [here](https://matrix.to/#/#anonymousland:anonymousland.org) to join our Matrix *space.*
