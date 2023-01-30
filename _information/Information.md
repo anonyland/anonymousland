@@ -5,7 +5,12 @@ title: Information
 permalink: /information
 ---
 
-A collection of links, articles, resources and more. [<i class="fa fa-rss" aria-hidden="true"></i>](https://anonymousland.org/feed/information.xml)
+<div style="text-align:center;">
+<p>
+A collection of links, articles, resources and more.
+</p>
+</div>
+
 
 <br>
 
