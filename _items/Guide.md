@@ -90,6 +90,7 @@ _Disclaimer: This is for education / research._
 -\>> [Secure Hardware](#secure-hardware) <br>
 -\>> [Plausible Deniability](#plausible-deniability) <br>
 -\>> [Tails](#tails) <br>
+-\>> [Anonymous Server](#anonymous-server) <br>
 -\>> [TLDR](#tldr) <br>
 
 ---
@@ -259,6 +260,8 @@ Media Channels:
 ## **"Cleaning Up"**
 
 What is _"cleaning up"?_
+
+*Note* This section isn't really "anonymity", it's just good practice.
 
 Simply put, cleaning up is the process of deleting your various traces on the internet.
 For the average person, this will be a long and arduous process.
@@ -885,6 +888,10 @@ LibreWolf is a good alternative to utilizing Arkenfox on Qubes as we cannot reas
 
 There are a variety of tools to test your different browser configurations in a wide array of tests.
 
+- [BrowserLeaks](https://browserleaks.com/)
+
+- [CreepyJS](https://abrahamjuliot.github.io/creepjs/)
+
 - [TorZillaPrint](https://arkenfox.github.io/TZP/index.html)
 
 - [DeviceInfo](https://www.deviceinfo.me/)
@@ -1329,6 +1336,28 @@ An *easy* method of implementing plausible deniability is to utilize [Hidden VMs
 The benefit to this is that after each session, all of the data is erased.
 This makes it an extremely effective tool to protecting your privacy.
 Tails is routed over Tor, which allows you to use it anonymously.
+
+<br>
+
+---
+
+## **Anonymous Server**
+
+Sometimes, you will need to host a server anonymously.
+This can be a pain, as a lot of popular services require some sort of ID, credit card, address, etc.
+
+For true "anonymity", we will tend to avoid these services.
+These range from Amazon Azure, to Linode.
+
+For a server, it's advisable to pay with crypto-currency, such as Monero, Zcash or some other type of "privacy"-respecting currency.
+
+If you need a domain, it's advisable to use [Njalla](https://njal.la) <button type="button" class="btn btn-default btn-xs"><a href="http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/">Tor</a></button> as they do not collect any personal information, and they are well-known for their strong privacy.
+
+For the actual server, you can use [1984](https://1984.is/) or the listed options below:
+
+- [BitHost](https://bithost.io/)
+
+- [Privex](https://www.privex.io/) <button type="button" class="btn btn-default btn-xs"><a href="http://privex3guvvasyer6pxz2fqcgy56auvw5egkir6ykwpptferdcb5toad.onion/">Tor</a></button>
 
 <br>
 
