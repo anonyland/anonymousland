@@ -295,6 +295,8 @@ echo "/usr/lib/libhardened_malloc.so/libhardened_malloc.so" | sudo tee /etc/ld.s
 
 #### Guides
 
+- [Creating sys-dns](https://forum.qubes-os.org/t/guide-how-to-setup-a-sys-dns-qube/13749)
+
 - [Using Kloak](https://forum.qubes-os.org/t/tutorial-how-to-use-kloak-with-usb-keyboards/14134)
 
 - [Advanced Browser Fingerprinting](https://forum.qubes-os.org/t/advanced-browser-fingerprinting/12379)
