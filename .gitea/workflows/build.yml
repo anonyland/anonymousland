@@ -9,4 +9,4 @@ jobs:
       - run: gem install bundler
       - run: bundle install
       - run: bundle exec jekyll build
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
