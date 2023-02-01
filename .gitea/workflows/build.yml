@@ -2,12 +2,11 @@ name: Jekyll build
 on: [push]
 
 jobs:
-  lint:
-    name: build
+  build:
     runs-on: ruby:3.1.3
     steps:
-      commands:
-         - gem update  
-         - gem install bundler
-         - bundle install
-         - bundle exec jekyll build
+      - run: gem update
+      - run: gem install bundler
+      - run: bundle install
+      - run: bundle exec jekyll build
+        uses: actions/checkout@v3
