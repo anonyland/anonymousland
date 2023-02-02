@@ -143,8 +143,15 @@ and requires an email address for sign-up.
 
 <br>
 
+### __OTS__
+
+OneTimeSecret instance located at:
+
+`https://ots.anonymousland.org`
+
 ## __Additional Services__
 
 - [Dimension](https://dimension.anonymousland.org)
-- [OTS](https://ots.anonymousland.org)
+[OTS](https://ots.anonymousland.org) <button type="button" class="btn btn-default btn-xs"><a href="http://up6cmathcvv3gkscop56lau3rbv4ksrafukyeibiaz2oxxlll2ftofad.onion/">Tor</a></button>
+
 - [Paste](https://paste.anonymousland.org)
