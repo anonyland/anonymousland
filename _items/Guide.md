@@ -60,6 +60,7 @@ _Disclaimer: This is for education / research._
 
 - -\> _[Tor](#tor)_ <br>
   - -\> _[Tor Usage](#tor-usage)_ <br>
+  - -\> _[Tor Operating Systems](#tor-operating-systems)_ <br>
 
 
 -\>> [Proper Mindset](#proper-mindset) <br>
@@ -187,8 +188,36 @@ If you wish to help contribute to the Tor network, you are able to enable the fo
 
 `Run Snowflake Proxy`: Allow other Tor users to connect to Tor through your device. (This can't be used if you connect alongside bridges)
 
+
 <br>
 
+#### Tor Operating Systems
+
+There are operating systems which are designed to work with Tor.
+These systems will route all / some *(depends on the OS)* network traffic over the Tor network.
+
+There are ways to route normal OS's over Tor, but the ones listed here are specifically designed for Tor-only use.
+
+Some notable mentions:
+
+- [Tails](https://tails.boum.org) - an amnesic OS which runs off a USB device.
+All traffic is routed over Tor, and can be used on any computer.
+Tails allows for a totally ephemeral OS, in which as soon as you shutdown the computer or pull out the USB drive, the RAM will be wiped and all contents on your session will be deleted. *(Note: persistent mode will function differently)*
+
+- [Whonix](https://whonix.org) - a "workstation"-type OS routed over Tor.
+You get the features of traditional Linux *(unlike amnesic Tails)* with it being routed over Tor.
+Whonix can be run on a USB device, in KVM *(the suggested method)* or with [QubesOS](https://qubes-os.org) *(the most secure method, suggested to use Whonix if you are using Qubes)*.
+
+Running in a virtual environment (KVM, Qubes, VM), there are two Whonix instances running.
+`Whonix-Gateway` and `Whonix-Workstation`.
+`Whonix-Gateway` is a separate *VM* which connects you to Tor.
+Its sole purpose is to connect to the Tor network.
+
+`Whonix-Workstation` will receive the Tor connection from `Whonix-Gateway`.
+All of your applications will occur in `Whonix-Workstation`.
+
+
+<br>
 ---
 
 ## **Proper Mindset**
