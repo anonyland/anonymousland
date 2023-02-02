@@ -61,7 +61,7 @@ _Disclaimer: This is for education / research._
 - -\> _[Tor](#tor)_ <br>
   - -\> _[Tor Usage](#tor-usage)_ <br>
   - -\> _[Tor Operating Systems](#tor-operating-systems)_ <br>
-
+  - -\> _[Contributing to Tor](#contributing-to-tor)_ <br>
 
 -\>> [Proper Mindset](#proper-mindset) <br>
 -\>> [Knowing Your Adversary](#knowing-your-adversary) <br>
@@ -216,6 +216,25 @@ Its sole purpose is to connect to the Tor network.
 `Whonix-Workstation` will receive the Tor connection from `Whonix-Gateway`.
 All of your applications will occur in `Whonix-Workstation`.
 
+<br>
+
+#### Contributing to Tor
+
+Tor is an amazing project.
+We need to do as much as possible to help protect the integrity of this network, and to help strengthen the network.
+
+This can be done by regularly using Tor.
+Regularly using Tor helps create more traffic on the network.
+Generally, more traffic will help to anonymize users.
+
+Consider running a [Snowflake](https://snowflake.torproject.org), this can run as a browser addon or inside of a [Docker container](https://hub.docker.com/r/thetorproject/snowflake-proxy), alternatively, you can enable Snowflake inside of Orbot.
+
+Running a Tor relay would be the best way to help contribute to the network.
+Refer to [this guide](https://community.torproject.org/relay/) on how to setup a relay.
+Any relay is important but, if you can, host an `exit-relay`.
+These relays are extremely important to the network as they see the clearnet traffic.
+
+If you do not want to host a relay, you can look at the [SaveTor](https://savetor.network/) project, which is taking donations in return for hosting public Tor nodes.
 
 <br>
 ---
