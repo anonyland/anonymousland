@@ -59,6 +59,8 @@ _Disclaimer: This is for education / research._
 -\>> [Important Concepts](#important-concepts) <br>
 
 - -\> _[Tor](#tor)_ <br>
+  - -\> _[Tor Usage](#tor-usage)_ <br>
+
 
 -\>> [Proper Mindset](#proper-mindset) <br>
 -\>> [Knowing Your Adversary](#knowing-your-adversary) <br>
@@ -137,6 +139,53 @@ Many people argue against using VPNs with Tor, though there can be real-world be
 If you are worried about an adversary knowing you are connecting to the Tor network this can be beneficial, but keep in mind your adversary can see you connect to the VPN.
 If you are concerned about a malicious `entry-node`, using a VPN can mask your IP address in this case.
 If you are using an "amnesic" setup such as Tails or anon-whonix on Qubes OS, you do not need to worry about having the same `guard-node`.
+
+<br>
+
+#### Tor Usage
+
+Tor is extremely important for our setup.
+Since Tor relies on other people using the Tor network, to disguise everybody so they 
+all seem alike, it's crucial we use Tor as much as possible.
+*(You should not use Tor for anything personal or linkable-activity)*
+
+Using Tor as much as possible helps strengthen the network as whole.
+On desktop, there is the [Tor Browser](https://torproject.org/download).
+On IOS there is [Onion Browser](https://onionbrowser.com) 
+On Android there is [Tor Browser](https://torproject.org/download#android) along with [Orbot](https://github.com/guardianproject/orbot), an application which allows you to route your entire device over Tor, or proxy specific applications.
+You can proxy applications such as an [F-Droid](https://f-droid.org) client such as [Neo-Store](https://github.com/NeoApplications/Neo-Store), allowing you to use [onionized repositories](https://gitlab.com/fdroid/mirror-monitor/-/raw/master/README.md) inside F-droid.
+*(We will talk about F-droid and these various applications later)*
+Other applications such as [Briar](https://briarproject.org).
+Any application that has a `proxy` setting can be used.
+
+The Orbot ports:
+SOCKS: `127.0.0.1:9050`
+HTTP: `127.0.0.1:8118`
+
+<br>
+
+On Orbot, you should configure the following settings:
+
+`Start Orbot on Boot`: Automatically start Orbot and connect Tor when your Android device boots
+
+`Allow Background Starts`: Let any app tell
+Orbot to start Tor and related services
+
+`Isolate destination addresses`: Use a different circuit for each destination address
+
+` Prefer IPv6 connections`: Tells exits that IPv6 addresses are preferred
+
+`Connecting padding`: Always enables connection padding to defend against some forms of traffic analysis. Default: auto
+
+`Circuit padding`: Enable circuit padding to defend against some forms of traffic analysis
+
+<br>
+
+If you wish to help contribute to the Tor network, you are able to enable the following:
+
+`Relaying`: Enable your device to be a non-exit relay
+
+`Run Snowflake Proxy`: Allow other Tor users to connect to Tor through your device. (This can't be used if you connect alongside bridges)
 
 <br>
 
