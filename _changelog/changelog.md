@@ -4,7 +4,41 @@ title: Changelog
 permalink: /changelog
 ---
 
----
+
+# v1.11
+
+- Added new links to [qubes](./qubes)
+
+- Updated Qubes references to `fedora-37` from `fedora-36`
+
+- Instructions for proxying `wget` on [qubes](./qubes)
+
+- Added Mullvad VPN guide for Qubes on [guide](./guide)
+
+- Updated [transparency](./transparency)
+
+- New links on [information](./information)
+
+- Created  `dvm-zulucrypt` guide at [dvm-zulucrypt](./qubes/dvm-zulucrypt)
+
+- Created  `sys-dns` guide at [kicksecure-sys-dns](./qubes/kicksecure-sys-dns)
+
+- Added new `tor-usage` section on [guide](./guide)
+
+- Added new `tor-operating-systems` section on [guide](./guide)
+
+- Added new `contributing-to-tor` section on [guide](./guide)
+
+- Added new `grapheneos-hardening` section on [guide](./guide)
+
+- Added app repository information on [guide](./guide)
+
+- Reformatted the [collections](./collections) section on [index](./)
+
+- Reformatted various text
+
+- Updated the JS and CSS
+
 
 # v1.10
 
