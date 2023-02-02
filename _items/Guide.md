@@ -84,6 +84,10 @@ _Disclaimer: This is for education / research._
 - -\>> _[Desktop](#desktop-1)_ <br>
 
 -\>> [Mobile](#mobile) <br>
+- -\>> _[GrapheneOS](#grapheneos)_ <br>
+- -\>> _[GrapheneOS Hardening](#grapheneos-hardening)_ <br>
+
+
 
 - -\>> _[External Applications](#external-applications)_ <br>
 - -\>> _[Tor](#tor-1)_ <br>
@@ -1017,6 +1021,12 @@ The location of the device is known by the cell provider.
 To be truly "anonymous" with a mobile device, you must not have an installed SIM card.
 It is not advisable to try to be "anonymous" on a mobile device.
 
+Android allows us to have more access over our device such as installing applications from third-party repositories and having access over `ADB` and changing permissions.
+
+<br>
+
+### GrapheneOS
+
 To be as private as possible, it is advisable to install [GrapheneOS](https://grapheneos.org).
 GrapheneOS is a hardened version of Android running on the *secure* Google Pixel.
 GrapheneOS will not have any sort of Google analytics.
@@ -1028,10 +1038,24 @@ The cell service provider **WILL** know your location.
 For additional information, view the [GrapheneOS Section](./graphene).
 
 With GrapheneOS, you can utilize the profiles function to create separate identities with each profile.
-We can use Orbot to route traffic over Tor on a per-profile basis.
+We can use [Orbot](https://github.com/guardianproject/orbot) to route traffic over Tor on a per-profile basis.
 You could utilize an application such as [Shelter](https://gitea.angry.im/PeterCxy/Shelter) to provide a "work profile".
 
 *Note: UDP is not supported by Tor*
+
+<br>
+
+### GrapheneOS Hardening
+
+If you've opted to install [GrapheneOS](https://grapheneos.org) on a Google Pixel, we can take some extra measures to secure our setup.
+
+To fully prevent VPN leaks:
+
+`Settings` -> `Network & Internet` -> `VPN` -> `settings icon` -> Enable `Always-on VPN` , `Block connections without VPN`
+
+`Network & Internet` -> `Internet connectivity check` -> `Disabled`
+
+VPN leaks are now prevented
 
 
 <br>
@@ -1041,6 +1065,13 @@ You could utilize an application such as [Shelter](https://gitea.angry.im/PeterC
 Assuming you are using Android, APKs are used to install applications.
 These can be dangerous as installing a malicious application can be detrimental to your system.
 It would likely be best to install various APKs from a source you can reasonably trust, or you can build your own and verify the signatures.
+
+Various repositories:
+
+- [Accrescent](https://accrescent.app) an Android app store built and focused on security.
+Allows for app signing, signed repository metadata and automatic updates.
+
+- [F-Droid](https://f-droid.org) an Android app repository, allowing you to use custom repositories or create your own.
 
 <br>
 
@@ -1299,7 +1330,7 @@ Very useful if you're at an airport, hotel or other public area in which you nee
 <br>
 
 [PortaPow USB Data Blocker](https://www.amazon.com/PortaPow-3rd-Gen-Data-Blocker/dp/B00QRRZ2QM/) - The gold standard of USB data blocking.
-This is a USB-A connector with a built-in "SmartChip" designed to increase charging speeds.
+This is a USB-A connector withqubesqubes a built-in "SmartChip" designed to increase charging speeds.
 
 <br>
 
