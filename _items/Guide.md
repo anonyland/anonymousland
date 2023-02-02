@@ -1419,6 +1419,7 @@ Various Firmware:
 - [Coreboot](https://www.coreboot.org/)
 - [Heads](https://github.com/osresearch/heads)
 - [Skulls](https://github.com/merge/skulls)
+- [TrenchBoot](https://trenchboot.org)
 
 
 <br>
