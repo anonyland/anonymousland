@@ -145,13 +145,14 @@ and requires an email address for sign-up.
 
 ### __OTS__
 
+*ots is a one-time-secret sharing platform. The secret is encrypted with a symmetric 256bit AES encryption in the browser before being sent to the server. Afterwards an URL containing the ID of the secret and the password is generated. The password is never sent to the server so the server will never be able to decrypt the secrets it delivers with a reasonable effort. Also the secret is immediately deleted on the first read.*
+
 OneTimeSecret instance located at:
 
-`https://ots.anonymousland.org`
+[OTS](https://ots.anonymousland.org) <button type="button" class="btn btn-default btn-xs"><a href="http://up6cmathcvv3gkscop56lau3rbv4ksrafukyeibiaz2oxxlll2ftofad.onion/">Tor</a></button>z
 
 ## __Additional Services__
 
 - [Dimension](https://dimension.anonymousland.org)
-[OTS](https://ots.anonymousland.org) <button type="button" class="btn btn-default btn-xs"><a href="http://up6cmathcvv3gkscop56lau3rbv4ksrafukyeibiaz2oxxlll2ftofad.onion/">Tor</a></button>
 
 - [Paste](https://paste.anonymousland.org)
