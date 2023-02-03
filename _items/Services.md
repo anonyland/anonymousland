@@ -83,6 +83,12 @@ Additional services are hosted with [Njalla](https://njal.la/about/).
 
 <br>
 
+### __Tor__
+
+We host a Tor [exit node](https://metrics.torproject.org/rs.html#details/800F6AB9506498F7FE80BFF204B9F33571297636)
+
+<br>
+
 ### __Matrix__
 
 The Matrix homeserver is located at
