@@ -72,8 +72,12 @@ bundle install
 jekyll build
 ```
 
+Building with docker:
+
+Ensure `docker` is installed, then execute `docker-build.sh`
+
 **Make sure to be at the root of the repository.**
-The built site files ready to host will be located at the *_site* directory.
+The built site files ready to host will be located at the `_site` directory.
 
 ## Hosting
 
