@@ -1200,6 +1200,14 @@ Often times, these devices to not receive proper security patches or even update
 
 <br>
 
+#### Privacy
+
+With the rise in IOT devices, comes "smart" enabled technology.
+This is often times being implemented into newer vehicles.
+With more detailed information being logged by your vehicle, often times in the event of an accident of some sort, insurance companies will pull information from the vehicle such as speed and location.
+
+<br>
+
 #### Security
 
 Unfortunately, with the rapid adoption of technology, cars are vulnerable to various types of attacks.
