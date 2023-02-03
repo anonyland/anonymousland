@@ -87,13 +87,10 @@ _Disclaimer: This is for education / research._
 - -\>> _[GrapheneOS](#grapheneos)_ <br>
 - -\>> _[GrapheneOS Hardening](#grapheneos-hardening)_ <br>
 
-
-
 - -\>> _[External Applications](#external-applications)_ <br>
 - -\>> _[Tor](#tor-1)_ <br>
 
 -\>> [Physical](#physical) <br>
-
 - -\>> _[Cars](#cars)_ <br>
 
 -\>> [Secure Communications](#secure-communications) <br>
@@ -1008,22 +1005,15 @@ There are a variety of tools to test your different browser configurations in a 
 
 ## **Mobile**
 
-Default un-modified mobile devices are **NOT** private.
-Your mobile device likely contains the most sensitive information. Pictures, texts, location, and more.
-We'll need to work heavily on reducing this fingerprint.
-Anything you do on your phone is likely not private.
-Apps have unnecessary permissions to contacts, messages, files, location and more.
-This is an extremely terrifying thing, as any app could have the potential to view sensitive information.
-Most apps require very minimal permissions to function.
-The idea is minimalism.
-"Calculator" does not need access to text messages, nor does it need to ping servers.
+Mobile devices are extremely important.
+They contain a plethora of information such as contacts, files, texts and more.
+Mobile devices by-default are not private or even anonymous.
+While there are ways to harden IOS / stock Android, this is not the place for it.
 
-Any device with a SIM card installed is not anonymous.
-The location of the device is known by the cell provider.
-
-To be truly "anonymous" with a mobile device, you must not have an installed SIM card.
-It is not advisable to try to be "anonymous" on a mobile device.
-
+It is best to focus on minimalism for our mobile devices, for instance, the calculator app does not need location permissions.
+We can reduce the amount of data being collected by eliminating apps we do not need and by removing invasive permissions.
+It is important to note that any device with a SIM card is likely not anonymous, as the cellular towers can triangulate the location of the device by measuring its signal strength.
+It is possible to create an anonymous mobile device by having no SIM card on it at all, and routing everything over Tor.
 Android allows us to have more access over our device such as installing applications from third-party repositories and having access over `ADB` and changing permissions.
 
 <br>
