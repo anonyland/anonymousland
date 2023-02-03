@@ -93,6 +93,9 @@ _Disclaimer: This is for education / research._
 - -\>> _[Tor](#tor-1)_ <br>
 
 -\>> [Physical](#physical) <br>
+
+- -\>> _[Cars](#cars)_ <br>
+
 -\>> [Secure Communications](#secure-communications) <br>
 -\>> [Secure Hardware](#secure-hardware) <br>
 -\>> [Plausible Deniability](#plausible-deniability) <br>
@@ -1132,6 +1135,17 @@ For more information visit [JoinMatrix](https://joinmatrix.org).
 
 ## **Physical**
 
+<div style="text-align:center">
+<div class="alert alert-danger" role="alert">
+  <strong>
+  This page is a **<b>WORK IN PROGRESS</b>** 
+  (more so than the others)
+  </strong>
+</div>
+</div>
+
+<br>
+
 Your physical state is just as important as your online state.
 If you can be physically tracked and stalked, this could potentially lead to the compromise of your online being.
 For instance, if someone stalks your behavior and notices you leave your device unattended, this can lead to malicious activity taking place such as compromising firmware, installing a small Bluetooth transmitter, accessing device information if the device is unencrypted, or even just outright taking the device.
@@ -1163,6 +1177,52 @@ Some examples of this include:
 At first glance, many of this seems like defining qualities, but they can be altered in a manner in which that can help prevent you from being identified.
 
 <br>
+
+### Cars
+
+Modern cars contain a lot of information about you.
+Location, speed, driving patterns, and more.
+There are few actual resources on what these privacy invasions are, and what you can do about them.
+
+The term "car" is used to describe automobiles such as sedans, SUV's, trucks, tudors, unless otherwise specified.
+
+<br>
+
+#### Introduction
+
+Most modern cars contain an EDR, Electronic Data Recorder.
+This device is also commonly known as a "black box".
+This device contains detailed information such as vehicle speed, detailed engine information along with the vehicles occupancy status.
+
+This device is able to be read via a simple USB dongle.
+The EDR is able to use the on-board pressure sensors embedded in the driver and passenger seats to have information such as how many passengers were in the vehicle, along with the status of seat belts.
+
+While this is used for safety purposes, it is an extreme privacy invasion.
+This page is not to describe on why you might want to care about privacy, but rather an overview on the privacy concern of modern cars.
+
+Most modern cars include "smart features", such as an embedded display usually running a version of Android.
+These devices will be referred to as a "smart screen".
+The smart screen has the ability to connect to the internet along with providing apps such as Spotify, and some sort of GPS / navigational system.
+
+A concern of these devices is the lack of security consideration.
+These devices have access to extremely sensitive information such as location and potentially account information granted that an account is signed in.
+Often times, these devices to not receive proper security patches or even updates to the OS in general.
+
+<br>
+
+#### Security
+
+Unfortunately, with the rapid adoption of technology, cars are vulnerable to various types of attacks.
+Certain types of attacks include spoofing the radio signal from a key Fob and utilizing vulnerabilities found in 3rd-party applications.
+
+Here is a list of some educational resources:
+
+- [Connecting to the car's network - David Bombal](https://invidious.namazso.eu/watch?v=ICOaAfLlb4o)
+
+- [I Hacked Into My Own Car - Steve Mould](https://invidious.snopyta.org/watch?v=5CsD8I396wo)
+
+<br>
+
 
 ### Walking Style
 
