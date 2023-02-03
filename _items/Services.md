@@ -149,10 +149,15 @@ and requires an email address for sign-up.
 
 OneTimeSecret instance located at:
 
-[OTS](https://ots.anonymousland.org) <button type="button" class="btn btn-default btn-xs"><a href="http://up6cmathcvv3gkscop56lau3rbv4ksrafukyeibiaz2oxxlll2ftofad.onion/">Tor</a></button>z
+[OTS](https://ots.anonymousland.org) <button type="button" class="btn btn-default btn-xs"><a href="http://up6cmathcvv3gkscop56lau3rbv4ksrafukyeibiaz2oxxlll2ftofad.onion/">Tor</a></button>
+
+<br>
 
 ## __Additional Services__
 
 - [Dimension](https://dimension.anonymousland.org)
 
-- [Paste](https://paste.anonymousland.org)
+- [Paste](https://paste.anonymousland.org)<button type="button" class="btn btn-default btn-xs"><a href="http://h7kw36ijgdnp75kb7ofo2z4swxhkhcqfrghjkvo5q5quz3bca4lqazad.onion
+">Tor</a></button>
+
+
