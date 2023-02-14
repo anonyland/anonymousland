@@ -98,6 +98,7 @@ _Disclaimer: This is for education / research._
 -\>> [Plausible Deniability](#plausible-deniability) <br>
 -\>> [Tails](#tails) <br>
 -\>> [Anonymous Server](#anonymous-server) <br>
+-\>> [Power Analysis](#power-analysis) <br>
 -\>> [TLDR](#tldr) <br>
 
 ---
@@ -1546,6 +1547,23 @@ For the actual server, you can use [1984](https://1984.is/) or the listed option
 - [BitHost](https://bithost.io/)
 
 - [Privex](https://www.privex.io/) <button type="button" class="btn btn-default btn-xs"><a href="http://privex3guvvasyer6pxz2fqcgy56auvw5egkir6ykwpptferdcb5toad.onion/">Tor</a></button>
+
+<br>
+
+---
+
+### **Power Analysis**
+
+*"Power analysis is a form of side channel attack in which the attacker studies the power consumption of a cryptographic hardware device. These attacks rely on basic physical properties of the device: semiconductor devices are governed by the laws of physics, which dictate that changes in voltages within the device require very small movements of electric charges (currents). By measuring those currents, it is possible to learn a small amount of information about the data being manipulated."*
+
+<br>
+
+This is an advanced attack which requires equipment and the technical skill to sucessfully operate such an attack.
+
+Several ways to prevent such an attack is a method known as [blinding](https://wikiless.org/wiki/Blinding_(cryptography)).
+
+To take certain precautions, it's adivsable to unplug and power off all devices not currently in-use.
+It *may* be possible to bypass / increase the difficulty of this sort of attack by utilizing a system of UPS's.
 
 <br>
 
