@@ -97,15 +97,15 @@ Recent blog posts from our [blog](./blog) page
 
 Information from [collections](./collections)
 
-[Information](./information) - A collection of links, articles and more.
+- [Information](./information) - A collection of links, articles and more.
 
-[GrapheneOS](./graphene)
+- [GrapheneOS](./graphene)
 
-[F-Droid](./f-droid)
+- [F-Droid](./f-droid)
 
-[Matrix](./matrix)
+- [Matrix](./matrix)
 
-[Qubes OS](./qubes)
+- [Qubes OS](./qubes)
 
 <br>
 <br>
