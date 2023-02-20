@@ -67,7 +67,7 @@ Articles and stories related to technology, security or privacy
 
 A place for related various communities & media
 
-- [Hackliberty](https://hackliberty.org)<button type="button" class="btn btn-default btn-xs"><a href="http://xj2i2lkzecitg6cq5ca3vrhlzq4evgz6qr2i4s7b4y57ktuaohff4vyd.onion">Tor</a></button>
+- [Hackliberty](https://hackliberty.org) <button type="button" class="btn btn-default btn-xs"><a href="http://xj2i2lkzecitg6cq5ca3vrhlzq4evgz6qr2i4s7b4y57ktuaohff4vyd.onion">Tor</a></button>
 
 - [PrivacyGuides](https://privacyguides.org) <button type="button" class="btn btn-default btn-xs"><a href="http://eter4u55b667kuo72ntpm7ut54sa2mxmr22iqgzns4jw7boeox3qgyid.onion">Tor</a></button>
 
