@@ -179,7 +179,7 @@ Orbot to start Tor and related services
 
 `Isolate destination addresses`: Use a different circuit for each destination address
 
-` Prefer IPv6 connections`: Tells exits that IPv6 addresses are preferred
+`Prefer IPv6 connections`: Tells exits that IPv6 addresses are preferred
 
 `Connecting padding`: Always enables connection padding to defend against some forms of traffic analysis. Default: auto
 
