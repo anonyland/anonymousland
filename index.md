@@ -14,11 +14,24 @@ description: A fun happy place.
 <br>
 </div>
 
+<br>
+
 <div style="text-align:center">
-<div class="alert alert-info" role="alert">
-  <strong>Sign up for our <a href="https://element.anonymousland.org"> Matrix Server</a>, or check out our <a href="http://ps3364wgpvq46iumfm7wcewr3qxymtnd2fo753gvngzbumir7wyrlvad.onion/"> Onion Matrix Server</a></strong>
+<div class="alert alert-danger" role="alert">
+  <strong>
+   **URGENT**
+   <br>
+   WE NEED DONATIONS TO HOST THE SERVERS
+   <br>
+   YOU ARE ABLE TO DONATE WITH XMR:
+   <br>
+   47teQv7uWPv9EALRDv9je6ckC83UYJiisHpmhNKHyPPTXinPJNRtvW8PcpEoLxex9ierqWvD89v9mVyGf77uLtS3RnGUk8K
+   <br>
+  </strong>
 </div>
 </div>
+
+<br>
 
 ---
 
