@@ -11,6 +11,8 @@ permalink: /services
 
 ## __Services__
 
+**Due to recent incidents with our Njalla VPS, some of our services will be offline.**
+
 These services are publicly available and free to use. 
 
 Services are hosted in __Sweden__ and / or __Iceland__.
