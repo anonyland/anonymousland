@@ -23,7 +23,11 @@ description: A fun happy place.
    <br>
    <br>
     SERVICES OFFLINE.
-    MORE INFORMATION TO COME.
+    VPS PROVIDER DELETED ENTIRE VPS WITHOUT NOTICE.
+
+    Our VPS provider- 1984 deleted the entire VPS without notice.
+    All data regarding **ALL** of our services is gone.
+    Only the Git mirrors remain.
    <br>
    <br>
   </strong>
