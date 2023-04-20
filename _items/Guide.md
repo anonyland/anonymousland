@@ -1086,7 +1086,7 @@ If your device has the ability to create multiple profiles, you can create a "To
 Having a secure operating system is only 1 part that we need.
 We need to ensure that all of our communications stay secure.
 The most common method to this is using E2EE (End-to-end encryption).
-anThis encrypts your messages locally on your device before sending them out.
+This encrypts your messages locally on your device before sending them out.
 Let's take a look at some of the basic types of messengers.
 
 Centralized: Meaning there is a single server / point of failure.
