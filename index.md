@@ -21,11 +21,10 @@ description: A fun happy place.
   <strong>
    **URGENT**
    <br>
-   WE NEED DONATIONS TO HOST THE SERVERS
    <br>
-   YOU ARE ABLE TO DONATE WITH XMR:
+    SERVICES OFFLINE.
+    MORE INFORMATION TO COME.
    <br>
-   47teQv7uWPv9EALRDv9je6ckC83UYJiisHpmhNKHyPPTXinPJNRtvW8PcpEoLxex9ierqWvD89v9mVyGf77uLtS3RnGUk8K
    <br>
   </strong>
 </div>
@@ -63,18 +62,6 @@ description: A fun happy place.
   <button type="button" class="btn btn-lg btn-default"><a href="./services"> Services Page</a></button>
 
 <br>
-<br>
-
-  <button type="button" class="btn btn-md btn-default"><a href="https://element.anonymousland.org"> Matrix</a></button>
-
-  <button type="button" class="btn btn-md btn-default"><a href="https://mastodon.anonymousland.org"> Mastodon</a></button>
- 
-  <button type="button" class="btn btn-md btn-default"><a href="https://git.anonymousland.org"> Git</a></button>
-
-<br>
-<br>
-
-  <button type="button" class="btn btn-large btn-default"><a href="http://767biftqmqp5he5ero7n5qvly7pmvyqcqmmlsgzptfzshenis3xjlxid.onion/">Onion Site</a></button>
 
 <br>
 <br>

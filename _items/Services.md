@@ -11,6 +11,9 @@ permalink: /services
 
 ## __Services__
 
+**NOTICE:** Services offline without notice!!! 
+More information to come.
+
 **Due to recent incidents with our Njalla VPS, some of our services will be offline.**
 
 These services are publicly available and free to use. 
