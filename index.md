@@ -29,12 +29,14 @@ description: A fun happy place.
     All data regarding **ALL** of our services is gone.
     Only the Git mirrors remain.
 
-    > Hosing publicly usable services which provides benefits to anonymity are a great way to help the community. Unfortunately, these become difficult to manage & maintain. Many services including our Tor node and Matrix server were prone to being abused. To effectively combat abuse, this would require us to use privacy-invasive measures. Our hosting provider - 1984, the host we used for everything, decided to delete the entire VPS without notice. We received no emails or alerts on such actions. There could be a number of reasons for this - primarily being abuse. Our Tor exit node hosted on Njalla was shutdown after malicious user(s) conducted several brute-force attacks. Njalla has become ridiculously expensive to operate with, providing no real upgrades, and you are limited to a small amount of storage. While hosting services is great, it's even more difficult to do such with little to no donations, and a wide variety of malicious actors conducting abuse on such services. Services may be available in the future, but for now we best stick with this website, and this website only. 
    <br>
    <br>
   </strong>
 </div>
 </div>
+
+Hosing publicly usable services which provides benefits to anonymity are a great way to help the community. Unfortunately, these become difficult to manage & maintain. Many services including our Tor node and Matrix server were prone to being abused. To effectively combat abuse, this would require us to use privacy-invasive measures. Our hosting provider - 1984, the host we used for everything, decided to delete the entire VPS without notice. We received no emails or alerts on such actions. There could be a number of reasons for this - primarily being abuse. Our Tor exit node hosted on Njalla was shutdown after malicious user(s) conducted several brute-force attacks. Njalla has become ridiculously expensive to operate with, providing no real upgrades, and you are limited to a small amount of storage. While hosting services is great, it's even more difficult to do such with little to no donations, and a wide variety of malicious actors conducting abuse on such services. Services may be available in the future, but for now we best stick with this website, and this website only. 
+
 
 <br>
 
