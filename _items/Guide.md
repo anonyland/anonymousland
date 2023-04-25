@@ -166,6 +166,7 @@ Other applications such as [Briar](https://briarproject.org).
 Any application that has a `proxy` setting can be used.
 
 The Orbot ports:
+
 SOCKS: `127.0.0.1:9050`
 HTTP: `127.0.0.1:8118`
 
@@ -272,11 +273,14 @@ Here is a general thought process...
   Let's eliminate user error.
   More on this subject will be later in this _guide._
 
-- Take over-procedures. Don't "skimp" out on encryption because you don't feel like entering in a password. Don't be lazy.
+- Take over-procedures. 
+Don't "skimp" out on encryption because you don't feel like entering in a password. Don't be lazy.
 
-- Do not compromise your security for a friend. If they are your friend, they will respect your new-founded love for being secure.
+- Do not compromise your security for a friend. 
+If they are your friend, they will respect your new-founded love for being secure.
 
-- Do not reveal more than you need to. MMJ doesn't need to know what you had for lunch.
+- Do not reveal more than you need to. 
+MMJ doesn't need to know what you had for lunch.
 
 (things to keep in mind)\* Reveal as little about yourself and origin as possible.
 
@@ -288,7 +292,14 @@ Here is a general thought process...
 
 - Do not be lazy.
 
-People may think you are paranoid, but in a world like this it _is_ useful to be even a bit paranoid. This will allow you to see the true realities of the world. If you are always thinking of ways you can be compromised, you'd actually likely reduce your risk due to the fact of you constantly thinking about it, rather than just "not really thinking" about it, or rather as often as you should. Privacy and security are constantly evolving, which means that you will have to evolve with it. Are you ready for a data breach? What are you going to do if your compromised? Questions like these are what you need to ask yourself in order to be successful, you must always have a backup plan that you can execute.
+- Do not have the misconception that just because it is open-source makes it secure.
+
+People may think you are paranoid, but in a world like this it _is_ useful to be even a bit paranoid. 
+This will allow you to see the true realities of the world. 
+If you are always thinking of ways you can be compromised, you'd actually likely reduce your risk due to the fact of you constantly thinking about it, rather than just "not really thinking" about it, or rather as often as you should. 
+Privacy and security are constantly evolving, which means that you will have to evolve with it. 
+Are you ready for a data breach? 
+What are you going to do if your compromised? Questions like these are what you need to ask yourself in order to be successful, you must always have a backup plan that you can execute.
 
 <br>
 
@@ -310,7 +321,8 @@ You need to properly identify a _threat model_, an _adversary_ along with perfor
 
 The most important part of your setup.
 
-Threat modeling can become an advanced topic, you will need to learn how to balance security, privacy and anonymity. You'll need to properly layout and identify what you are protecting yourself from.
+Threat modeling can become an advanced topic, you will need to learn how to balance security, privacy and anonymity. 
+You'll need to properly layout and identify what you are protecting yourself from.
 Everyone has something to protect, whether it is passwords, location, internet activity, confidential documents, etc.
 The items you are trying to protect will be referred here as "assets".
 
@@ -321,7 +333,7 @@ Ask yourself these basic questions:
 - What happens if I fail to protect this?
 
 These are some basic questions to ask yourself when creating your threat model.
-Based upon your answers to these questions, will determine the route you must go.
+Based upon your answers to these questions, will determine the route you must go. 
 Example - You don't want your neighbor Joe to see you sleeping, so you close your blinds.
 
 Developing a threat model will require a lot of time and effort.
@@ -1514,12 +1526,13 @@ Security Keys:
 
 - [NitroKey](https://www.nitrokey.com/)
 
+- [Tkey](https://www.tillitis.se/)
+
 - [YubiKey](https://www.yubico.com/)
 
 Crypto Wallets:
 
 - [Trezor](https://trezor.io/)
-
 
 <br>
 
