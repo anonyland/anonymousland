@@ -447,6 +447,10 @@ Some aliasing services:
 
 - [AnonAddy](https://anonaddy.com/)
 
+- [Duckduckgo Mail](https://duckduckgo.com/email/)
+
+- [Firefox Relay](https://relay.firefox.com/)
+
 - [SimpleLogin](https://simplelogin.io/)
 
 <br>
@@ -463,7 +467,7 @@ _What is the point of using a secure messenger, if your desktop is compromised b
 A massive amount of information is stored on our desktop, meaning that it contains a trove of our personal information.
 From search results to private documents.
 These items are **NOT** private on "traditional" operating systems.
-The default desktop enviroment has a broken security model.
+The default desktop environment has a broken security model.
 This is due to the fact of lacking permissions and proper isolation as done on mobile operating systems such as Android with their per-app permission toggles.
 Some services like Firejail, Bubblewrap, SELinux and Apparmor can fix a lot of these issues, but the fact is configuring these services for every application can be a daunting task and can lead to much user-error.
 
@@ -683,7 +687,7 @@ deb tor+http://2s4yqjx5ul6okpp3f2gaunr2syex5jgbfpfvhxxbbjwnrsvbk5v3qbid.onion/de
 
 Fedora Templates:
 
-Edit `/etc/yum.repos.d/qubes-r[version].repo`, comment out the clearnet `baseurl` and uncoment the onion `baseurl`
+Edit `/etc/yum.repos.d/qubes-r[version].repo`, comment out the clearnet `baseurl` and uncomment the onion `baseurl`
 
 <br>
 
@@ -1405,7 +1409,7 @@ Very useful if you're at an airport, hotel or other public area in which you nee
 <br>
 
 [PortaPow USB Data Blocker](https://www.amazon.com/PortaPow-3rd-Gen-Data-Blocker/dp/B00QRRZ2QM/) - The gold standard of USB data blocking.
-This is a USB-A connector withqubesqubes a built-in "SmartChip" designed to increase charging speeds.
+This is a USB-A connector with a built-in "SmartChip" designed to increase charging speeds.
 
 <br>
 
