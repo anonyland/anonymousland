@@ -9,10 +9,26 @@ permalink: /services
 <i>“There are too many of us, he thought. There are billions of us and that's too many. Nobody knows anyone. Strangers come and violate you. Strangers come and cut your heart out. Strangers come and take your blood. Good God, who were those men? I never saw them before in my life!” </i>
 </div>
 
-## __Services__
+<br>
+<br>
 
-**NOTICE:** Services offline without notice!!! 
-More information to come.
+<div style="text-align:center">
+<div class="alert alert-warning" role="alert">
+  <strong>
+   Notice
+   <br>
+   <br>
+    This page is outdated, and the information should be considered such.
+   <br>
+   <br>
+  </strong>
+</div>
+</div>
+
+<br>
+<br>
+
+## __Services__
 
 **Due to recent incidents with our Njalla VPS, some of our services will be offline.**
 
