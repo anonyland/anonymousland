@@ -61,6 +61,7 @@ _Disclaimer: This is for education / research._
 - -\> _[Tor](#tor)_ <br>
   - -\> _[Tor Usage](#tor-usage)_ <br>
   - -\> _[Tor Operating Systems](#tor-operating-systems)_ <br>
+  - -\> _[Tor Browser(s)](#tor-browsers)_ <br>
   - -\> _[Contributing to Tor](#contributing-to-tor)_ <br>
 
 -\>> [Proper Mindset](#proper-mindset) <br>
