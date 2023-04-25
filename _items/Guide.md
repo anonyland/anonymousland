@@ -94,7 +94,7 @@ _Disclaimer: This is for education / research._
 -\>> [Physical](#physical) <br>
 - -\>> _[Cars](#cars)_ <br>
 
--\>> [Secure Communications](#secure-communications) <br>
+-\>> [Secure Communications](#secureish-communications) <br>
 -\>> [Secure Hardware](#secure-hardware) <br>
 -\>> [Plausible Deniability](#plausible-deniability) <br>
 -\>> [Tails](#tails) <br>
@@ -1100,7 +1100,7 @@ If your device has the ability to create multiple profiles, you can create a "To
 
 ---
 
-## **Secure Communications**
+## **Secure(ish) Communications**
 
 Having a secure operating system is only 1 part that we need.
 We need to ensure that all of our communications stay secure.
