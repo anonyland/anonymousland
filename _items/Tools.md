@@ -44,6 +44,7 @@ Multi-factor authentication is extremely important as it provides multiple layer
 
 - [Aegis](https://github.com/beemdevelopment/Aegis) (Mobile)
 - [NitroKey](https://www.nitrokey.com/) (Hardware)
+- [Tkey](https://www.tillitis.se/) (Hardware)
 - [YubiKey](https://www.yubico.com/) (Hardware) <button type="button" class="btn btn-xs btn-warning"> <a href="https://www.yubico.com/blog/secure-hardware-vs-open-source/"> Proprietary </a> </button>
 
 <br>
@@ -61,6 +62,7 @@ Your browser contains everything you do.
 It is the main entry point onto your system, along with the main privacy & security risk.
 
 - [Tor Browser](https://torproject.org) <button type="button" class="btn btn-default btn-xs"><a href="http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/">Tor</a></button>
+- [Mullvad Browser](https://mullvad.net/en/browser)
 - [Librewolf](https://librewolf.net/)
 - [Vanadium](https://vanadium.app) (Mobile)
 - [Bromite](https://bromite.org) (Mobile)
