@@ -26,7 +26,7 @@ description: A fun happy place.
     VPS PROVIDER DELETED ENTIRE VPS WITHOUT NOTICE.
 
     Our VPS provider- 1984 deleted the entire VPS without notice.
-    All data regarding **ALL** of our services is gone.
+    All data regarding **ALL** of our services are gone.
     Only the Git mirrors remain.
 
    <br>
@@ -53,7 +53,7 @@ Hosing publicly usable services which provides benefits to anonymity are a great
 <br>
 <br>
 
-  <button type="button" class="btn btn-md btn-default"><a href="https://git.anonymousland.org/anonymousland/anonymousland"> <i class="fa fa-github" aria-hidden="true"></i> Source Code</a></button>
+  <button type="button" class="btn btn-md btn-default"><a href="https://codeberg.org/anonymousland/anonymousland"> <i class="fa fa-github" aria-hidden="true"></i> Source Code</a></button>
 
   <button type="button" class="btn btn-md btn-default"><a href="./guide"><i class="fa fa-suitcase" aria-hidden="true"></i> Guide</a></button>
 
@@ -65,7 +65,6 @@ Hosing publicly usable services which provides benefits to anonymity are a great
 <br>
 <br>
 
-  <button type="button" class="btn btn-lg btn-default"><a href="https://status.anonymousland.org"> Status Page</a></button>
 
   <button type="button" class="btn btn-lg btn-default"><a href="./services"> Services Page</a></button>
 
