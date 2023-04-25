@@ -223,6 +223,17 @@ All of your applications will occur in `Whonix-Workstation`.
 
 <br>
 
+#### Tor Browser(s)
+
+There are several different ways to access Tor, primarily through a browser.
+Browsers such as Brave offer this, but this should **NOT** be used, as it contains a unique fingerprint.
+
+[Mullvad](https://mullvad.net) has released the [Mullvad Browser](https://mullvad.net/en/browser), which focuses on minimizing the browser fingerprint and to minimize tracking.
+It comes installed with UBlock Origin by-default.
+With this browser being brand-new, it would be advisable to proceed with caution, but this browser does appear promising.
+
+<br>
+
 #### Contributing to Tor
 
 Tor is an amazing project.
@@ -983,6 +994,9 @@ LibreWolf is a good alternative to utilizing Arkenfox on Qubes as we cannot reas
 <br>
 
 #### General Notes
+
+- For using Tor, you should only use the *official* Tor Browser.
+  - (You may want to look at [Mullvad Browser](https://mullvad.net/en/browser))
 
 - For an ideal browser setup focused around privacy, you should **NOT** store any browser history, cookies or cache.
 - HTTPS-Only should be activated on all browsers.
