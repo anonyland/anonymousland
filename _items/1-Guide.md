@@ -1363,6 +1363,7 @@ You can be tracked physically with a wide array of technologies including but no
   - [Real Time Object Tracking System using Thermal Camera](https://medium.com/analytics-vidhya/real-time-object-tracking-system-using-thermal-camera-b4d077a20f16)
 
 - Facial recognition
+  - [The T-Shirt Invisibility Cloak](https://yewtu.be/watch?v=NyofHyRm5CQ)
   - [Wearable face projector](https://inv.bp.projectsegfau.lt/watch?v=_PoudPCevN0)
 
 <br>
