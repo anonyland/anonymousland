@@ -230,10 +230,6 @@ All of your applications will occur in `Whonix-Workstation`.
 There are several different ways to access Tor, primarily through a browser.
 Browsers such as Brave offer this, but this should **NOT** be used, as it contains a unique fingerprint.
 
-[Mullvad](https://mullvad.net) has released the [Mullvad Browser](https://mullvad.net/en/browser), which focuses on minimizing the browser fingerprint and to minimize tracking.
-It comes installed with UBlock Origin by-default.
-With this browser being brand-new, it would be advisable to proceed with caution, but this browser does appear promising.
-
 <br>
 
 #### Contributing to Tor
@@ -651,10 +647,10 @@ qubes-usb-proxy
 qubes-gpg-split
 ```
 
-Fedora-36:
+Fedora-37:
 
 ```
-sudo qubes-dom0-update qubes-template-fedora-36
+sudo qubes-dom0-update qubes-template-fedora-37
 ```
 
 Debian-11:
@@ -717,101 +713,10 @@ More thoughts:
 
 <br>
 
-#### U2F-Proxy
+#### Additional Setup
 
-Using [u2f-proxy](https://qubes-os.org/doc/u2f-proxy) allows you to "compartmentalize the browser in one qube and the USB stack in another so that they are always kept separate from each other".
-
-The Qubes documentation shows the following for installation:
-
-dom0:
-
-```
-sudo qubes-dom0-update qubes-u2f-dom0
-```
-
-Now, execute this command for all the Qubes you will utilize u2f.
-
-```
-qvm-service --enable QUBE_NAME qubes-u2f-proxy
-```
-
-To install on our templates, use the following:
-
-Fedora:
-
-```
-sudo dnf install qubes-u2f
-```
-
-Debian:
-
-```
-sudo apt install qubes-u2f
-```
-
-Finally, you must restart your Qubes.
-It's suggested you read the [u2f-proxy](https://qubes-os.org/doc/u2f-proxy) documentation.
-
-<br>
-
-#### YubiKey
-
-Using a YubiKey can help mitigate certain attacks such as password "snooping", along with increasing security.
-Read the [official documentation](https://qubes-os.org/doc/yubikey).
-
-Installation for template qubes:
-
-Fedora:
-
-```
-sudo dnf install ykpers yubikey-personalization-gui
-```
-
-Debian:
-
-```
-sudo apt-get install yubikey-personalization yubikey-personalization-gui
-```
-
-The GUI on for Debian can be run via the `yubikey-personalization-gui` command.
-
-- Choose `configuration slot2`.
-- Select `HMAC-SHA1 mode: fixed 64 bit input`.
-- Ensure to backup the `Secret Key (20 bytes hex)`.
-
-Now the following is required for dom0:
-
-```
-sudo qubes-dom0-update qubes-yubikey-dom0
-```
-
-If we had changed the name of `sys-usb` or are using something other than that, we would need to edit ``/etc/qubes/yk-keys/yk-vm'' in dom0.
-
-- Paste the `Secret Key (20 bytes hex)` into `/etc/qubes/yk-keys/yk-secret-key.hex` in dom0.
-
-- Paste your hashed password into `/etc/qubes/yk-keys/yk-login-pass-hashed.hex` in dom0.
-
-To get your hashed password:
-
-```
-read -r password
-```
-
-```
-echo -n "$password" | openssl dgst -sha1
-```
-
-Edit `/etc/pam.d/login` in dom0 and add:
-
-```
-auth include yubikey
-```
-
-Now, edit `/etc/pam.d/xscreensaver` to include:
-
-```
-auth include yubikey
-```
+We are able to use [u2f-proxy](https://qubes-os.org/doc/u2f-proxy) along with [yubikey](https://qubes-os.org/doc/yubikey).
+Review the official documentation.
 
 <br>
 
@@ -1013,8 +918,6 @@ LibreWolf is a good alternative to utilizing Arkenfox on Qubes as we cannot reas
 #### General Notes
 
 - For using Tor, you should only use the *official* Tor Browser.
-  - (You may want to look at [Mullvad Browser](https://mullvad.net/en/browser))
-
 - For an ideal browser setup focused around privacy, you should **NOT** store any browser history, cookies or cache.
 - HTTPS-Only should be activated on all browsers.
 - Disable saving of passwords, logins, credit cards, etc. as this is a security concern saving all of this in a web browser.
@@ -1030,6 +933,10 @@ There are a variety of tools to test your different browser configurations in a 
 - [DeviceInfo](https://www.deviceinfo.me/)
 
 - [SSL Test](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
+
+[Mullvad](https://mullvad.net) has released the [Mullvad Browser](https://mullvad.net/en/browser), which focuses on minimizing the browser fingerprint and to minimize tracking.
+It comes installed with UBlock Origin by-default.
+With this browser being brand-new, it would be advisable to proceed with caution, but this browser does appear promising.
 
 <br>
 
