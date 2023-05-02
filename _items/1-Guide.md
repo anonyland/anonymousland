@@ -77,7 +77,6 @@ _Disclaimer: This is for education / research._
   - -\>> _[Installation](#installation)_ <br>
   - -\>> _[Template Setup](#template-setup)_ <br>
   - -\>> _[Onionizing Repositories](#onionizing-repositories)_ <br>
-  - -\>> _[Qubes Basic Setup](#qube-basic-setup)_ <br>
 
 -\>> [Creating our Aliases](#creating-our-aliases) <br>
 -\>> [Browsers](#browsers) <br>
@@ -1044,6 +1043,7 @@ Here's a list of "great" messengers and services that you'll be able to use.
   Session has built-in onion-routing.
 
 - [Matrix](https://matrix.org) Matrix provides a federated platform, which allows for anyone to host their own server, meaning that it is resistent to censorship as the network does not rely on a single server.
+  *Note: Matrix has issues regarding metadata.*
 
 - [Briar](https://briarproject.org) A P2P messenger app which is designed for extreme threat models.
   Allows for Bluetooth communication along with routing communications over Tor network.
