@@ -86,14 +86,13 @@ _Disclaimer: This is for education / research._
 -\>> [Mobile](#mobile) <br>
 - -\>> _[GrapheneOS](#grapheneos)_ <br>
 - -\>> _[GrapheneOS Hardening](#grapheneos-hardening)_ <br>
-
 - -\>> _[External Applications](#external-applications)_ <br>
 - -\>> _[Tor](#tor-1)_ <br>
 
 -\>> [Physical](#physical) <br>
 - -\>> _[Cars](#cars)_ <br>
 
--\>> [Secure Communications](#secureish-communications) <br>
+-\>> [Secure(ish) Communications](#secureish-communications) <br>
 -\>> [Secure Hardware](#secure-hardware) <br>
 -\>> [Plausible Deniability](#plausible-deniability) <br>
 -\>> [Tails](#tails) <br>
@@ -1481,6 +1480,8 @@ These range from Amazon Azure, to Linode.
 For a server, it's advisable to pay with crypto-currency, such as Monero, Zcash or some other type of "privacy"-respecting currency.
 
 If you need a domain, it's advisable to use [Njalla](https://njal.la) <button type="button" class="btn btn-default btn-xs"><a href="http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/">Tor</a></button> as they do not collect any personal information, and they are well-known for their strong privacy.
+While Njalla is a fantastic privacy-respecting service, their VPS plans are lacking.
+For hosting a simple web server or private service, this should be sufficient, but the idea here is that we have separate providers for our VPS and our domain.
 
 For the actual server, you can use [1984](https://1984.is/) or the listed options below:
 
@@ -1502,7 +1503,7 @@ This is an advanced attack which requires equipment and the technical skill to s
 
 Several ways to prevent such an attack is a method known as [blinding](https://wikiless.org/wiki/Blinding_(cryptography)).
 
-To take certain precautions, it's adivsable to unplug and power off all devices not currently in-use.
+To take certain precautions, it's advisable to unplug and power off all devices not currently in-use.
 It *may* be possible to bypass / increase the difficulty of this sort of attack by utilizing a system of UPS's.
 
 <br>
