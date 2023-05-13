@@ -59,6 +59,7 @@ _Disclaimer: This is for education / research._
 -\>> [Important Concepts](#important-concepts) <br>
 
 - -\> _[Tor](#tor)_ <br>
+  - -\> _[Tor with VPN](#tor-with-vpn)_ <br>
   - -\> _[Tor Usage](#tor-usage)_ <br>
   - -\> _[Tor Operating Systems](#tor-operating-systems)_ <br>
   - -\> _[Tor Browser(s)](#tor-browsers)_ <br>
@@ -144,6 +145,21 @@ Many people argue against using VPNs with Tor, though there can be real-world be
 If you are worried about an adversary knowing you are connecting to the Tor network this can be beneficial, but keep in mind your adversary can see you connect to the VPN.
 If you are concerned about a malicious `entry-node`, using a VPN can mask your IP address in this case.
 If you are using an "amnesic" setup such as Tails or anon-whonix on Qubes OS, you do not need to worry about having the same `guard-node`.
+
+<br>
+
+#### Tor with VPN
+
+Using Tor with a VPN has both upsides and downfalls.
+This setup will vary from person to person based upon usage, threat models and other factors only you can determine.
+
+Using a VPN with Tor has its downfalls.
+One of the main reasons you should use a VPN with Tor is if you are concerned with your ISP watching for Tor traffic and you can *reasonably* trust your VPN provider.
+
+To prevent your ISP or another adversary from viewing Tor traffic, you are also able to use Tor bridges for such, but if it is not critical to use bridges, do not as there are other people who benefit from bridges.
+Using a VPN will proxy your Tor traffic to another ISP, which hopefully is less malicious than an adversary you are hiding this traffic from.
+
+Using a VPN will increase latency, along with potentially messing with the guard node selection.
 
 <br>
 
