@@ -106,6 +106,10 @@ Information from [collections](./collections)
 
 - [Qubes OS](./qubes)
 
+  - [dvm-zulucrypt](./qubes/dvm-zulucrypt)
+
+  - [kicksecure-sys-dns](./qubes/kicksecure-sys-dns)
+  
 <br>
 <br>
 
