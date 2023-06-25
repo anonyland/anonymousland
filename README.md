@@ -1,5 +1,13 @@
 # **[Anonymousland](https://anonymousland.org)** v1.10
 
+## Notice:
+
+We are temporary using GitHub pages.
+This provides an easier maintenance-free system of hosting.
+This is beneficial as it does not require an additional VPS and configuration.
+Until our infrastructure is restored, the site will remain on GitHub pages.
+
+
     SERVICES OFFLINE.
     VPS PROVIDER DELETED ENTIRE VPS WITHOUT NOTICE.
 
