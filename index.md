@@ -84,7 +84,7 @@ Information from [collections](./collections)
 
 - [Qubes OS](./qubes)
 
-git pu  - [dvm-zulucrypt](./qubes/dvm-zulucrypt)
+  - [dvm-zulucrypt](./qubes/dvm-zulucrypt)
 
   - [kicksecure-sys-dns](./qubes/kicksecure-sys-dns)
   
