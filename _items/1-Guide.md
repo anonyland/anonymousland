@@ -1183,6 +1183,11 @@ Your walking style is a unique identifier, and can be used to track you.
 To change this, you are able to do a variety of things to change your normal behavior / pattern.
 The easiest method would be to put a coin inside your shoe.
 
+- [Generating digital signatures with the gait of people](https://towardsdatascience.com/generating-digital-signatures-with-the-gait-of-people-3a66f0c44b7b)
+
+
+- [From Learning Gait Signatures of Many Individuals to Reconstructing Gait Dynamics of One Single Individual](https://www.frontiersin.org/articles/10.3389/fams.2020.564935/full)
+
 <br>
 
 ### Heart Rate
@@ -1194,6 +1199,8 @@ To change your heart rate, you can rely on external substances such as medicatio
 Doing such will raise / lower your heart rate based upon what you do.
 To hide your heart rate from such technology, it is advisable to use tinfoil to block the signal.
 This can be done via foil clothing or line a jacket with the proper tinfoil material.
+
+- [Heart rate prediction from facial video with masks using eye location and corrected by convolutional neural networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8906658/)
 
 <br>
 
