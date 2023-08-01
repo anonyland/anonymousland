@@ -14,6 +14,12 @@ description: A fun happy place.
 <br>
 </div>
 
+<div style="text-align:center">
+<div class="alert alert-info" role="alert">
+  <strong>Sign up for our <a href="https://matrix.anonymousland.org/register"> Matrix Server</a></strong>
+</div>
+</div>
+
 <br>
 <br>
 
